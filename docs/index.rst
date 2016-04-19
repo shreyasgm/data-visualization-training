@@ -8,7 +8,7 @@ Data Visualization
 
 This data visualization module created for the IFMR-LEAD staff meet will touch upon various topics (listed below). However, the only tools that will be covered in detail are basic data visualizations using R and Tableau Public. 
 
-If time permits (and if everyone's interested), we could cover a few advanced tools as well.
+If time permits (and if everyone's interested), we could cover a few advanced tools as well. We encourage you to set up everything before the session, by following the steps described in :doc:`'Getting Started' <gettingstarted>`.
 
 Tools
 -----
@@ -19,11 +19,13 @@ Tools
 - `Raw <http://raw.densitydesign.org/>`_
 - `Plot.ly <https://plot.ly/>`_
 - Advanced visualization tools:
-    + `D3.js <https://d3js.org/>`_
-    + `Chart.js <http://www.chartjs.org/>`_
-    + `Dygraphs <http://dygraphs.com/>`_
 
-Contents:
+  + `D3.js <https://d3js.org/>`_
+  + `Chart.js <http://www.chartjs.org/>`_
+  + `Dygraphs <http://dygraphs.com/>`_
+
+Contents
+--------
 
 .. toctree::
    :maxdepth: 2
