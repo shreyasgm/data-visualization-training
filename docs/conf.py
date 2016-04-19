@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# Data Visualization - IFMR-LEAD documentation build configuration file, created by
-# sphinx-quickstart on Tue Apr 19 13:49:12 2016.
+# Data Visualization documentation build configuration file, created by
+# sphinx-quickstart on Tue Apr 19 14:29:22 2016.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -14,7 +14,7 @@
 
 import sys
 import os
-from recommonmark.parser import CommonMarkParser
+import sphinx_rtd_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -37,21 +37,16 @@ templates_path = ['_templates']
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 # source_suffix = ['.rst', '.md']
-source_suffix = '.md'
+source_suffix = '.rst'
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
-
-#Set parser as markdown
-source_parsers = {
-    '.md': CommonMarkParser,
-}
 
 # The master toctree document.
 master_doc = 'index'
 
 # General information about the project.
-project = u'Data Visualization - IFMR-LEAD'
+project = u'Data Visualization'
 copyright = u'2016, Nikita Taniparti, Shreyas Gadgin Matha'
 author = u'Nikita Taniparti, Shreyas Gadgin Matha'
 
@@ -99,6 +94,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
+highlight_language = 'R'
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
@@ -114,7 +110,7 @@ todo_include_todos = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -122,11 +118,11 @@ html_theme = 'alabaster'
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-#html_theme_path = []
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
-#html_title = u'Data Visualization - IFMR-LEAD v0.1'
+#html_title = u'Data Visualization v0.1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -208,7 +204,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'DataVisualization-IFMR-LEADdoc'
+htmlhelp_basename = 'DataVisualizationdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -230,7 +226,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'DataVisualization-IFMR-LEAD.tex', u'Data Visualization - IFMR-LEAD Documentation',
+    (master_doc, 'DataVisualization.tex', u'Data Visualization Documentation',
      u'Nikita Taniparti, Shreyas Gadgin Matha', 'manual'),
 ]
 
@@ -260,7 +256,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'datavisualization-ifmr-lead', u'Data Visualization - IFMR-LEAD Documentation',
+    (master_doc, 'datavisualization', u'Data Visualization Documentation',
      [author], 1)
 ]
 
@@ -274,8 +270,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'DataVisualization-IFMR-LEAD', u'Data Visualization - IFMR-LEAD Documentation',
-     author, 'DataVisualization-IFMR-LEAD', 'One line description of project.',
+    (master_doc, 'DataVisualization', u'Data Visualization Documentation',
+     author, 'DataVisualization', 'One line description of project.',
      'Miscellaneous'),
 ]
 

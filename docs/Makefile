@@ -96,9 +96,9 @@ qthelp:
 	@echo
 	@echo "Build finished; now you can run "qcollectiongenerator" with the" \
 	      ".qhcp project file in $(BUILDDIR)/qthelp, like this:"
-	@echo "# qcollectiongenerator $(BUILDDIR)/qthelp/DataVisualization-IFMR-LEAD.qhcp"
+	@echo "# qcollectiongenerator $(BUILDDIR)/qthelp/DataVisualization.qhcp"
 	@echo "To view the help file:"
-	@echo "# assistant -collectionFile $(BUILDDIR)/qthelp/DataVisualization-IFMR-LEAD.qhc"
+	@echo "# assistant -collectionFile $(BUILDDIR)/qthelp/DataVisualization.qhc"
 
 .PHONY: applehelp
 applehelp:
@@ -115,8 +115,8 @@ devhelp:
 	@echo
 	@echo "Build finished."
 	@echo "To view the help file:"
-	@echo "# mkdir -p $$HOME/.local/share/devhelp/DataVisualization-IFMR-LEAD"
-	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/DataVisualization-IFMR-LEAD"
+	@echo "# mkdir -p $$HOME/.local/share/devhelp/DataVisualization"
+	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/DataVisualization"
 	@echo "# devhelp"
 
 .PHONY: epub
