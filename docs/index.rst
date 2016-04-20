@@ -32,4 +32,10 @@ Contents
    :maxdepth: 2   
 
    gettingstarted
-   vizWithR
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Visualizations with R
+
+   ggplot2
+

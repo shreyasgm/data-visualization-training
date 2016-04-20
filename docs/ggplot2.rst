@@ -1,6 +1,5 @@
-R - ggplot2
-===========
-Prerequisite: make sure that you have set everything up as described in :doc:`'Getting Started' <gettingstarted>`.
+ggplot2
+=======
 
 .. highlight:: R
 
@@ -72,7 +71,7 @@ Saving your graphs
 		scale = 1, width = NA, height = NA, units = c("in", "cm", "mm"),
 		dpi = 300, limitsize = TRUE, ...)
 
-In our case, we might want to use the following parameters::
+To save our scatterplot, we might want to use the following parameters::
 
 	ggsave(filename = 'FULL_FILE_PATH.FILE_TYPE',
 		plot = scatterplot,
