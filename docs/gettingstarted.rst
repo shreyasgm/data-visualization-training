@@ -31,7 +31,7 @@ Tableau Public
 
 .. tip:: 
 
-	If you're interested in starting out before the session with Tableau, just open it up and play around with it. If you want more structure, here are some `YouTube tutorials`_ I found.
+	If you're interested in starting out before the session with Tableau, just open it up and play around with it. If you want more structure, here are some `YouTube tutorials`_.
 
 .. _Tableau Public: https://public.tableau.com/s/download
-.. _YouTube tutorials: https://www.youtube.com/watch?v=C67VPldr09E&list=PLTVUozgYlmzILvGJ2UujjkRlTK7Wo-t3m
+.. _YouTube tutorials: https://www.youtube.com/playlist?list=PLTVUozgYlmzILvGJ2UujjkRlTK7Wo-t3m

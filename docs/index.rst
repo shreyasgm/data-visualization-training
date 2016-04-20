@@ -6,7 +6,7 @@
 Data Visualization
 ==================
 
-This data visualization module created for the IFMR-LEAD staff meet will touch upon various topics (listed below). However, the only tools that will be covered in detail are basic data visualizations using R and Tableau Public. 
+This data visualization module created for the IFMR-LEAD staff meet to be held on 28th and 29th April 2016, will touch upon various topics (listed below). However, the only tools that will be covered in detail are basic data visualizations using R and Tableau Public. 
 
 If time permits (and if everyone's interested), we could cover a few advanced tools as well. We encourage you to set up everything before the session, by following the steps described in :doc:`'Getting Started' <gettingstarted>`.
 
