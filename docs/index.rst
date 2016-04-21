@@ -38,4 +38,5 @@ Contents
    :caption: Visualizations with R
 
    ggplot2
+   ggvis
 
