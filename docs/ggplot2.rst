@@ -5,11 +5,17 @@ ggplot2
 
 We will use the :code:`mtcars` dataset, which comes pre-loaded in the R session. Explore the dataset by executing :code:`str(mtcars)` and :code:`summary(mtcars)` in the R console.
 
+.. note::
+
+	You can download the full R Script to reproduce the analysis here_. 
+
 Load the ggplot2 package using:
 
 ::
    
 	library(ggplot2)
+
+.. _here: https://raw.githubusercontent.com/shreyasgm/data-visualization-training/master/scripts/ggplot2-tutorial.R
 
 Scatterplots
 ------------

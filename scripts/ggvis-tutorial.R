@@ -34,10 +34,10 @@ imrData <- imrData %>%
   select(state = India.States.Uts,
          X2001.Total:X2012.Female) %>%  #Keep selected variables
   gather(yearSex,imr,X2001.Total:X2012.Female) %>%    #Reshape data
-  separate(col = yearSex,           #Split yearSex column into year and sex columns
+  separate(col = yearSex,
            into = c('year','sex'),
            sep = "\\.",
-           remove = TRUE) %>%
+           remove = TRUE) %>%         #Split yearSex column into year and sex columns
   filter(sex != 'Total') %>%          #Remove observations of category 'Total'
   mutate(year = as.Date(paste0(substr(year,start = 2,stop = 5),'-12-31')))   #Remove 'X' at the beginning of year, convert variable into date.
 
@@ -45,6 +45,7 @@ imrData <- imrData %>%
 #Plot bar graph
 imrData %>%
   filter(state != 'INDIA',year == max(year)) %>%
+  mutate(state = as.character(state)) %>%
   ggvis(x = ~state,y = ~imr) %>%
   layer_bars() %>%
   add_axis("x",title = "",
