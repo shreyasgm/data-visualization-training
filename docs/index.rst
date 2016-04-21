@@ -39,4 +39,5 @@ Contents
 
    ggplot2
    ggvis
+   R-tips
 
