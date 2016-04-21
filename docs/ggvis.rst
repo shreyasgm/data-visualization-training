@@ -63,6 +63,13 @@ ggvis
 	                                                 dy = -5,
 	                                                 align = "right")))
 
+**Output**
+
+.. raw:: html
+
+	<img src="https://raw.githubusercontent.com/shreyasgm/data-visualization-training/master/output/ggvis-bargraph.png" alt="ggplot2 image" style="width:700px;height:300px">
+
+
 
 
 

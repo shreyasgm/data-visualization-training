@@ -84,3 +84,10 @@ To save our scatterplot, we might want to use the following parameters::
 		width = 6,height = 5.4)
 
 :code:`FILE_TYPE` can be tex, pdf, jpeg, png, svg and others (refer documentation by using :code:`?ggsave`).
+
+**Output**
+
+.. raw:: html
+
+	<img src="https://raw.githubusercontent.com/shreyasgm/data-visualization-training/master/output/mpgVsHp.png" alt="ggplot2 image" style="width:500px;height:300px">
+
