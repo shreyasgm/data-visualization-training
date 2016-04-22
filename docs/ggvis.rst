@@ -9,6 +9,10 @@ ggvis
 
 	You can download the full R Script to reproduce the analysis here_. 
 
+.. warning::
+	
+	ggvis is still under development (currently version 0.4.2), so some functions might not work as well as we would like them to.
+
 .. highlight:: R
 
 - Install / load required packages using::
@@ -70,6 +74,10 @@ ggvis
 	<img src="https://raw.githubusercontent.com/shreyasgm/data-visualization-training/master/output/ggvis-bargraph.png" alt="ggplot2 image" style="width:700px;height:300px">
 
 
+.. tip::
+	
+	:code:`ggvis` enables you to add basic interactivity to your visualizations. RStudio has excellent tutorials_ for ggvis.
+
 
 
 
@@ -83,4 +91,4 @@ ggvis
 
 .. _Download Data: https://data.gov.in/resources/infant-mortality-rates-sex-2001-2012-india-and-major-states/download
 .. _here: https://raw.githubusercontent.com/shreyasgm/data-visualization-training/master/scripts/ggvis-tutorial.R
-
+.. _tutorials: http://ggvis.rstudio.com/interactivity.html
