@@ -39,5 +39,6 @@ Contents
 
    ggplot2
    ggvis
+   htmlwidgets
    R-tips
 
