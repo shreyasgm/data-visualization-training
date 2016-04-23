@@ -59,8 +59,7 @@ htmlwidgets
 
 .. raw:: html
 
-	<iframe src="annualRainfall.html" height="345px" width="100%"></iframe>
-
+	<iframe src="_static/annualRainfall.html" height="345px" width="100%"></iframe>
 
 
 
