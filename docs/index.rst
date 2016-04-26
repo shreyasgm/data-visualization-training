@@ -42,3 +42,8 @@ Contents
    htmlwidgets
    R-tips
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Tableau
+
+   tableau
