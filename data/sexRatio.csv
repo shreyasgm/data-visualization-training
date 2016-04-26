@@ -1,0 +1,4810 @@
+"Country","year","sexRatio"
+"Afghanistan","1950",107.331
+"AFRICA","1950",97.892
+"Albania","1950",101.419
+"Algeria","1950",104.13
+"Angola","1950",96.284
+"Argentina","1950",106.05
+"Armenia","1950",90.276
+"Aruba","1950",93.592
+"ASIA","1950",106.042
+"Australia","1950",101.693
+"Australia/New Zealand","1950",101.573
+"Austria","1950",86.64
+"Azerbaijan","1950",88.969
+"Bahamas","1950",86.638
+"Bahrain","1950",116.115
+"Bangladesh","1950",115.915
+"Barbados","1950",85.088
+"Belarus","1950",79.241
+"Belgium","1950",97.168
+"Belize","1950",95.929
+"Benin","1950",87.234
+"Bhutan","1950",105.238
+"Bolivia","1950",99.461
+"Bosnia and Herzegovina","1950",93.311
+"Botswana","1950",93.829
+"Brazil","1950",98.446
+"Brunei","1950",106.013
+"Bulgaria","1950",99.918
+"Burkina Faso","1950",110.343
+"Burundi","1950",91.883
+"Cambodia","1950",99.991
+"Cameroon","1950",96.13
+"Canada","1950",102.97
+"Cape Verde","1950",83.059
+"Caribbean","1950",100.787
+"Central African Rep.","1950",97.221
+"Central America","1950",99.443
+"Chad","1950",97.453
+"Channel Islands","1950",92.361
+"Chile","1950",98.143
+"China","1950",108.118
+"Hong Kong, China","1950",105.668
+"Macao, China","1950",111.377
+"Colombia","1950",99.111
+"Comoros","1950",98.83
+"Congo, Rep.","1950",96.56
+"Costa Rica","1950",104.196
+"Cote d'Ivoire","1950",102.788
+"Croatia","1950",90.996
+"Cuba","1950",106.786
+"Cyprus","1950",97.306
+"Czech Rep.","1950",94.532
+"Korea, Dem. Rep.","1950",84.263
+"Congo, Dem. Rep.","1950",88.119
+"Denmark","1950",98.375
+"Djibouti","1950",98.568
+"Dominican Rep.","1950",103.728
+"Eastern Africa","1950",98.053
+"Eastern Asia","1950",105.876
+"Eastern Europe","1950",80.839
+"Ecuador","1950",98.819
+"Egypt","1950",98.883
+"El Salvador","1950",97.398
+"Equatorial Guinea","1950",96.705
+"Eritrea","1950",98.005
+"Estonia","1950",74.353
+"Ethiopia","1950",98.157
+"EUROPE","1950",87.415
+"Fiji","1950",109.421
+"Finland","1950",91.543
+"France","1950",92.568
+"French Guiana","1950",107.754
+"French Polynesia","1950",105.248
+"Gabon","1950",95.036
+"Gambia","1950",94.951
+"Georgia","1950",85.848
+"Germany","1950",85.386
+"Ghana","1950",102.215
+"Greece","1950",95.05
+"Grenada","1950",84.677
+"Guadeloupe","1950",92.661
+"Guam","1950",210.742
+"Guatemala","1950",102.106
+"Guinea","1950",99.469
+"Guinea-Bissau","1950",97.896
+"Guyana","1950",95.335
+"Haiti","1950",95.295
+"Honduras","1950",101.163
+"Hungary","1950",92.616
+"Iceland","1950",98.619
+"India","1950",108.033
+"Indonesia","1950",98.434
+"Iran","1950",103.11
+"Iraq","1950",99.494
+"Ireland","1950",103.635
+"Israel","1950",105.824
+"Italy","1950",94.857
+"Jamaica","1950",94.739
+"Japan","1950",96.27
+"Jordan","1950",107.876
+"Kazakhstan","1950",93.77
+"Kenya","1950",101.736
+"Kuwait","1950",146.359
+"Kyrgyzstan","1950",90.96
+"Laos","1950",97.109
+"LATIN AMERICA AND THE CARIBBEAN","1950",100.017
+"Latvia","1950",76.166
+"Least developed countries","1950",102.062
+"Lebanon","1950",101.323
+"Lesotho","1950",88.331
+"Less developed regions","1950",104.826
+"Less developed regions, excluding China","1950",103.325
+"Less developed regions, excluding least developed countries","1950",105.197
+"Liberia","1950",98.005
+"Libya","1950",106.521
+"Lithuania","1950",82.162
+"Luxembourg","1950",100.001
+"Madagascar","1950",105.87
+"Malawi","1950",93.18
+"Malaysia","1950",106.026
+"Maldives","1950",116.969
+"Mali","1950",104.974
+"Malta","1950",97.47
+"Martinique","1950",91.375
+"Mauritania","1950",96.752
+"Mauritius","1950",99.192
+"Mayotte","1950",119.658
+"Melanesia","1950",111.519
+"Mexico","1950",98.922
+"Micronesia","1950",135.107
+"Micronesia, Fed. Sts.","1950",106.119
+"Middle Africa","1950",92.558
+"Mongolia","1950",95.944
+"Montenegro","1950",91.02
+"More developed regions","1950",91.012
+"Morocco","1950",100.195
+"Mozambique","1950",95.601
+"Myanmar","1950",98.335
+"Namibia","1950",98.65
+"Nepal","1950",111.342
+"Netherlands","1950",99.369
+"Netherlands Antilles","1950",93.787
+"New Caledonia","1950",111.229
+"New Zealand","1950",101.054
+"Nicaragua","1950",98.896
+"Niger","1950",88.446
+"Nigeria","1950",96.223
+"Northern Africa","1950",100.227
+"NORTHERN AMERICA","1950",100.055
+"Northern Europe","1950",94.117
+"Norway","1950",98.239
+"West Bank and Gaza","1950",107.877
+"OCEANIA","1950",103.684
+"Oman","1950",103.084
+"Pakistan","1950",124.534
+"Panama","1950",105.053
+"Papua New Guinea","1950",111.391
+"Paraguay","1950",96.886
+"Peru","1950",101.37
+"Philippines","1950",98.913
+"Poland","1950",91.042
+"Polynesia","1950",104.947
+"Portugal","1950",92.687
+"Puerto Rico","1950",100.942
+"Qatar","1950",102.774
+"Korea, Rep.","1950",99.225
+"Moldova","1950",87.648
+"Reunion","1950",92.063
+"Romania","1950",93.167
+"Russia","1950",75.187
+"Rwanda","1950",97.755
+"Saint Lucia","1950",97.154
+"Saint Vincent and the Grenadines","1950",88.849
+"Samoa","1950",106.504
+"Sao Tome and Principe","1950",124.888
+"Saudi Arabia","1950",103.061
+"Senegal","1950",100.107
+"Serbia","1950",94.435
+"Sierra Leone","1950",95.987
+"Singapore","1950",107.408
+"Slovak Republic","1950",94.352
+"Slovenia","1950",91.586
+"Solomon Islands","1950",122.817
+"Somalia","1950",98.562
+"South Africa","1950",99.243
+"South America","1950",100.093
+"South-Central Asia","1950",109.442
+"South-Eastern Asia","1950",99.156
+"Southern Africa","1950",98.454
+"Southern Europe","1950",94.197
+"Spain","1950",93.393
+"Sri Lanka","1950",120.258
+"Sub- Saharan Africa","1950",97.305
+"Sudan","1950",99.453
+"Suriname","1950",99.073
+"Swaziland","1950",94.62
+"Sweden","1950",99.205
+"Switzerland","1950",93.014
+"Syria","1950",108.071
+"Tajikistan","1950",93.781
+"Macedonia, FYR","1950",100.473
+"Thailand","1950",100.651
+"Timor-Leste","1950",102.523
+"Togo","1950",97.185
+"Tonga","1950",103.263
+"Trinidad and Tobago","1950",99.373
+"Tunisia","1950",99.322
+"Turkey","1950",99.628
+"Turkmenistan","1950",96.148
+"Uganda","1950",99.488
+"Ukraine","1950",75.198
+"United Arab Emirates","1950",102.765
+"United Kingdom","1950",94.37
+"Tanzania","1950",95.229
+"United States","1950",99.807
+"Virgin Islands (U.S.)","1950",96.243
+"Uruguay","1950",102.356
+"Uzbekistan","1950",93.84
+"Vanuatu","1950",109.4
+"Venezuela","1950",102.582
+"Vietnam","1950",98.931
+"Western Africa","1950",97.918
+"Western Asia","1950",99.251
+"Western Europe","1950",89.472
+"Western Sahara","1950",98.043
+"WORLD","1950",100.178
+"Yemen, Rep.","1950",101.984
+"Zambia","1950",99.147
+"Zimbabwe","1950",99.441
+"Afghanistan","1955",107.529
+"AFRICA","1955",98.033
+"Albania","1955",101.216
+"Algeria","1955",102.911
+"Angola","1955",96.108
+"Argentina","1955",103.965
+"Armenia","1955",91.516
+"Aruba","1955",94.758
+"ASIA","1955",105.61
+"Australia","1955",102.498
+"Australia/New Zealand","1955",102.275
+"Austria","1955",86.772
+"Azerbaijan","1955",89.995
+"Bahamas","1955",87.336
+"Bahrain","1955",116.144
+"Bangladesh","1955",114.021
+"Barbados","1955",84.195
+"Belarus","1955",80.625
+"Belgium","1955",96.741
+"Belize","1955",97.18
+"Benin","1955",88.201
+"Bhutan","1955",104.721
+"Bolivia","1955",98.688
+"Bosnia and Herzegovina","1955",94.394
+"Botswana","1955",93.992
+"Brazil","1955",99.213
+"Brunei","1955",106.501
+"Bulgaria","1955",99.441
+"Burkina Faso","1955",107.41
+"Burundi","1955",92.064
+"Cambodia","1955",99.996
+"Cameroon","1955",96.411
+"Canada","1955",102.836
+"Cape Verde","1955",84.726
+"Caribbean","1955",100.462
+"Central African Rep.","1955",96.94
+"Central America","1955",99.625
+"Chad","1955",96.987
+"Channel Islands","1955",92.818
+"Chile","1955",97.991
+"China","1955",106.94
+"Hong Kong, China","1955",105.598
+"Macao, China","1955",104.866
+"Colombia","1955",99.152
+"Comoros","1955",99.041
+"Congo, Rep.","1955",97.115
+"Costa Rica","1955",103.859
+"Cote d'Ivoire","1955",103.186
+"Croatia","1955",91.129
+"Cuba","1955",105.552
+"Cyprus","1955",95.981
+"Czech Rep.","1955",94.56
+"Korea, Dem. Rep.","1955",85.989
+"Congo, Dem. Rep.","1955",89.811
+"Denmark","1955",98.525
+"Djibouti","1955",98.277
+"Dominican Rep.","1955",103.927
+"Eastern Africa","1955",97.957
+"Eastern Asia","1955",105.058
+"Eastern Europe","1955",82.968
+"Ecuador","1955",99.431
+"Egypt","1955",99.435
+"El Salvador","1955",97.474
+"Equatorial Guinea","1955",96.262
+"Eritrea","1955",98.322
+"Estonia","1955",76.947
+"Ethiopia","1955",98.204
+"EUROPE","1955",88.399
+"Fiji","1955",103.636
+"Finland","1955",92.064
+"France","1955",93.349
+"French Guiana","1955",105.397
+"French Polynesia","1955",105.259
+"Gabon","1955",95.056
+"Gambia","1955",95.298
+"Georgia","1955",86.307
+"Germany","1955",86.279
+"Ghana","1955",102.068
+"Greece","1955",95.389
+"Grenada","1955",85.299
+"Guadeloupe","1955",95.04
+"Guam","1955",171.517
+"Guatemala","1955",102.469
+"Guinea","1955",99.031
+"Guinea-Bissau","1955",97.718
+"Guyana","1955",95.182
+"Haiti","1955",95.865
+"Honduras","1955",101.387
+"Hungary","1955",93.406
+"Iceland","1955",102.567
+"India","1955",108.386
+"Indonesia","1955",98.891
+"Iran","1955",103.265
+"Iraq","1955",100.16
+"Ireland","1955",102.005
+"Israel","1955",103.324
+"Italy","1955",94.6
+"Jamaica","1955",94.733
+"Japan","1955",96.589
+"Jordan","1955",107.78
+"Kazakhstan","1955",93.095
+"Kenya","1955",101.112
+"Kuwait","1955",150.492
+"Kyrgyzstan","1955",89.853
+"Laos","1955",96.759
+"LATIN AMERICA AND THE CARIBBEAN","1955",100.071
+"Latvia","1955",78.186
+"Least developed countries","1955",101.72
+"Lebanon","1955",101.326
+"Lesotho","1955",88.231
+"Less developed regions","1955",104.441
+"Less developed regions, excluding China","1955",103.309
+"Less developed regions, excluding least developed countries","1955",104.806
+"Liberia","1955",97.541
+"Libya","1955",104.341
+"Lithuania","1955",83.97
+"Luxembourg","1955",100.657
+"Madagascar","1955",105.13
+"Malawi","1955",92.609
+"Malaysia","1955",103.99
+"Maldives","1955",115.385
+"Mali","1955",104.249
+"Malta","1955",93.827
+"Martinique","1955",92.327
+"Mauritania","1955",97.959
+"Mauritius","1955",99.18
+"Mayotte","1955",117.923
+"Melanesia","1955",108.605
+"Mexico","1955",99.119
+"Micronesia","1955",124.017
+"Micronesia, Fed. Sts.","1955",106.143
+"Middle Africa","1955",93.315
+"Mongolia","1955",96.818
+"Montenegro","1955",92.642
+"More developed regions","1955",91.587
+"Morocco","1955",100.055
+"Mozambique","1955",95.535
+"Myanmar","1955",98.158
+"Namibia","1955",97.726
+"Nepal","1955",110.265
+"Netherlands","1955",99.277
+"Netherlands Antilles","1955",95.141
+"New Caledonia","1955",111.23
+"New Zealand","1955",101.319
+"Nicaragua","1955",99.132
+"Niger","1955",91.541
+"Nigeria","1955",96.619
+"Northern Africa","1955",100.146
+"NORTHERN AMERICA","1955",98.9
+"Northern Europe","1955",93.68
+"Norway","1955",99.013
+"West Bank and Gaza","1955",107.779
+"OCEANIA","1955",103.615
+"Oman","1955",100.125
+"Pakistan","1955",121.913
+"Panama","1955",104.608
+"Papua New Guinea","1955",108.932
+"Paraguay","1955",96.616
+"Peru","1955",101.493
+"Philippines","1955",99.731
+"Poland","1955",92.69
+"Polynesia","1955",104.164
+"Portugal","1955",92.704
+"Puerto Rico","1955",99.291
+"Qatar","1955",120.709
+"Korea, Rep.","1955",99.514
+"Moldova","1955",87.614
+"Reunion","1955",93.877
+"Romania","1955",94.375
+"Russia","1955",78.027
+"Rwanda","1955",97.583
+"Saint Lucia","1955",100.007
+"Saint Vincent and the Grenadines","1955",88.602
+"Samoa","1955",104.35
+"Sao Tome and Principe","1955",124.894
+"Saudi Arabia","1955",102.913
+"Senegal","1955",101.005
+"Serbia","1955",95.779
+"Sierra Leone","1955",95.635
+"Singapore","1955",110.967
+"Slovak Republic","1955",94.83
+"Slovenia","1955",91.527
+"Solomon Islands","1955",118.352
+"Somalia","1955",98.141
+"South Africa","1955",99.736
+"South America","1955",100.165
+"South-Central Asia","1955",109.196
+"South-Eastern Asia","1955",99.449
+"Southern Africa","1955",98.863
+"Southern Europe","1955",94.423
+"Spain","1955",94.069
+"Sri Lanka","1955",114.634
+"Sub- Saharan Africa","1955",97.498
+"Sudan","1955",99.486
+"Suriname","1955",101.61
+"Swaziland","1955",93.911
+"Sweden","1955",99.341
+"Switzerland","1955",93.499
+"Syria","1955",105.864
+"Tajikistan","1955",93.764
+"Macedonia, FYR","1955",101.368
+"Thailand","1955",100.708
+"Timor-Leste","1955",103.033
+"Togo","1955",96.835
+"Tonga","1955",104.067
+"Trinidad and Tobago","1955",99.722
+"Tunisia","1955",98.56
+"Turkey","1955",100.75
+"Turkmenistan","1955",96.032
+"Uganda","1955",99.052
+"Ukraine","1955",77.613
+"United Arab Emirates","1955",102.583
+"United Kingdom","1955",93.401
+"Tanzania","1955",95.626
+"United States","1955",98.546
+"Virgin Islands (U.S.)","1955",98.178
+"Uruguay","1955",101.169
+"Uzbekistan","1955",92.901
+"Vanuatu","1955",107.798
+"Venezuela","1955",103.416
+"Vietnam","1955",99.129
+"Western Africa","1955",98.109
+"Western Asia","1955",99.766
+"Western Europe","1955",90.179
+"Western Sahara","1955",109.374
+"WORLD","1955",100.247
+"Yemen, Rep.","1955",102.059
+"Zambia","1955",98.829
+"Zimbabwe","1955",99.452
+"Afghanistan","1960",107.69
+"AFRICA","1960",98.231
+"Albania","1960",101.466
+"Algeria","1960",101.342
+"Angola","1960",96.095
+"Argentina","1960",102.446
+"Armenia","1960",93.245
+"Aruba","1960",95.584
+"ASIA","1960",104.675
+"Australia","1960",102.215
+"Australia/New Zealand","1960",101.989
+"Austria","1960",87.189
+"Azerbaijan","1960",91.773
+"Bahamas","1960",91.659
+"Bahrain","1960",116.506
+"Bangladesh","1960",112.354
+"Barbados","1960",81.196
+"Belarus","1960",82.329
+"Belgium","1960",96.274
+"Belize","1960",97.428
+"Benin","1960",89.181
+"Bhutan","1960",104.297
+"Bolivia","1960",98.104
+"Bosnia and Herzegovina","1960",95.322
+"Botswana","1960",91.773
+"Brazil","1960",99.397
+"Brunei","1960",106.566
+"Bulgaria","1960",99.67
+"Burkina Faso","1960",105.033
+"Burundi","1960",92.313
+"Cambodia","1960",100.033
+"Cameroon","1960",96.719
+"Canada","1960",102.751
+"Cape Verde","1960",86.458
+"Caribbean","1960",99.85
+"Central African Rep.","1960",96.762
+"Central America","1960",99.786
+"Chad","1960",96.75
+"Channel Islands","1960",93.306
+"Chile","1960",97.802
+"China","1960",104.382
+"Hong Kong, China","1960",105.404
+"Macao, China","1960",98.421
+"Colombia","1960",99.166
+"Comoros","1960",99.186
+"Congo, Rep.","1960",97.534
+"Costa Rica","1960",103.6
+"Cote d'Ivoire","1960",103.839
+"Croatia","1960",91.378
+"Cuba","1960",104.455
+"Cyprus","1960",96.704
+"Czech Rep.","1960",94.195
+"Korea, Dem. Rep.","1960",88.635
+"Congo, Dem. Rep.","1960",91.316
+"Denmark","1960",98.397
+"Djibouti","1960",98.197
+"Dominican Rep.","1960",103.679
+"Eastern Africa","1960",97.926
+"Eastern Asia","1960",103.039
+"Eastern Europe","1960",84.726
+"Ecuador","1960",99.969
+"Egypt","1960",99.92
+"El Salvador","1960",97.599
+"Equatorial Guinea","1960",96.008
+"Eritrea","1960",98.439
+"Estonia","1960",78.173
+"Ethiopia","1960",98.253
+"EUROPE","1960",89.229
+"Fiji","1960",106.283
+"Finland","1960",92.944
+"France","1960",94.162
+"French Guiana","1960",103.293
+"French Polynesia","1960",105.257
+"Gabon","1960",95.136
+"Gambia","1960",95.811
+"Georgia","1960",87.12
+"Germany","1960",86.95
+"Ghana","1960",102.003
+"Greece","1960",95.332
+"Grenada","1960",86.582
+"Guadeloupe","1960",96.358
+"Guam","1960",140.491
+"Guatemala","1960",102.64
+"Guinea","1960",99.01
+"Guinea-Bissau","1960",97.573
+"Guyana","1960",95.697
+"Haiti","1960",96.525
+"Honduras","1960",101.288
+"Hungary","1960",93.189
+"Iceland","1960",102.299
+"India","1960",108.722
+"Indonesia","1960",99.294
+"Iran","1960",103.502
+"Iraq","1960",101.373
+"Ireland","1960",100.993
+"Israel","1960",103.043
+"Italy","1960",94.118
+"Jamaica","1960",92.555
+"Japan","1960",96.513
+"Jordan","1960",107.715
+"Kazakhstan","1960",92.856
+"Kenya","1960",100.616
+"Kuwait","1960",166.772
+"Kyrgyzstan","1960",90.254
+"Laos","1960",96.785
+"LATIN AMERICA AND THE CARIBBEAN","1960",99.962
+"Latvia","1960",78.251
+"Least developed countries","1960",101.402
+"Lebanon","1960",101.168
+"Lesotho","1960",87.035
+"Less developed regions","1960",103.658
+"Less developed regions, excluding China","1960",103.337
+"Less developed regions, excluding least developed countries","1960",103.962
+"Liberia","1960",97.289
+"Libya","1960",105.327
+"Lithuania","1960",84.857
+"Luxembourg","1960",97.483
+"Madagascar","1960",104.292
+"Malawi","1960",92.457
+"Malaysia","1960",103.368
+"Maldives","1960",114.128
+"Mali","1960",103.54
+"Malta","1960",93.789
+"Martinique","1960",96.105
+"Mauritania","1960",98.942
+"Mauritius","1960",99.416
+"Mayotte","1960",116.309
+"Melanesia","1960",107.677
+"Mexico","1960",99.317
+"Micronesia","1960",114.571
+"Micronesia, Fed. Sts.","1960",106.214
+"Middle Africa","1960",94.045
+"Mongolia","1960",97.659
+"Montenegro","1960",94.282
+"More developed regions","1960",92.105
+"Morocco","1960",99.966
+"Mozambique","1960",95.538
+"Myanmar","1960",98.083
+"Namibia","1960",97.366
+"Nepal","1960",108.501
+"Netherlands","1960",99.202
+"Netherlands Antilles","1960",96.955
+"New Caledonia","1960",111.419
+"New Zealand","1960",101.017
+"Nicaragua","1960",99.582
+"Niger","1960",93.387
+"Nigeria","1960",96.98
+"Northern Africa","1960",100.335
+"NORTHERN AMERICA","1960",98.394
+"Northern Europe","1960",93.639
+"Norway","1960",99.277
+"West Bank and Gaza","1960",107.715
+"OCEANIA","1960",103.116
+"Oman","1960",97.994
+"Pakistan","1960",119.346
+"Panama","1960",104.25
+"Papua New Guinea","1960",107.348
+"Paraguay","1960",97.031
+"Peru","1960",101.553
+"Philippines","1960",100.452
+"Poland","1960",93.716
+"Polynesia","1960",103.578
+"Portugal","1960",91.762
+"Puerto Rico","1960",97.87
+"Qatar","1960",132.078
+"Korea, Rep.","1960",100.487
+"Moldova","1960",87.904
+"Reunion","1960",95.047
+"Romania","1960",95.279
+"Russia","1960",80.489
+"Rwanda","1960",97.511
+"Saint Lucia","1960",92.494
+"Saint Vincent and the Grenadines","1960",88.251
+"Samoa","1960",102.906
+"Sao Tome and Principe","1960",125.403
+"Saudi Arabia","1960",102.715
+"Senegal","1960",101.842
+"Serbia","1960",96.728
+"Sierra Leone","1960",95.44
+"Singapore","1960",111.357
+"Slovak Republic","1960",95.367
+"Slovenia","1960",91.579
+"Solomon Islands","1960",116.664
+"Somalia","1960",97.882
+"South Africa","1960",99.977
+"South America","1960",100.04
+"South-Central Asia","1960",108.997
+"South-Eastern Asia","1960",99.715
+"Southern Africa","1960",98.965
+"Southern Europe","1960",94.316
+"Spain","1960",94.25
+"Sri Lanka","1960",110.761
+"Sub- Saharan Africa","1960",97.688
+"Sudan","1960",99.592
+"Suriname","1960",100
+"Swaziland","1960",93.835
+"Sweden","1960",99.52
+"Switzerland","1960",93.972
+"Syria","1960",104.477
+"Tajikistan","1960",95.266
+"Macedonia, FYR","1960",102.038
+"Thailand","1960",100.716
+"Timor-Leste","1960",103.125
+"Togo","1960",96.706
+"Tonga","1960",104.652
+"Trinidad and Tobago","1960",98.821
+"Tunisia","1960",101.938
+"Turkey","1960",103.042
+"Turkmenistan","1960",96.305
+"Uganda","1960",98.846
+"Ukraine","1960",79.624
+"United Arab Emirates","1960",102.418
+"United Kingdom","1960",93.248
+"Tanzania","1960",96.026
+"United States","1960",97.985
+"Virgin Islands (U.S.)","1960",97.961
+"Uruguay","1960",100.147
+"Uzbekistan","1960",93.629
+"Vanuatu","1960",106.63
+"Venezuela","1960",103.933
+"Vietnam","1960",99.176
+"Western Africa","1960",98.317
+"Western Asia","1960",101.052
+"Western Europe","1960",90.79
+"Western Sahara","1960",115.915
+"WORLD","1960",100.019
+"Yemen, Rep.","1960",101.96
+"Zambia","1960",98.687
+"Zimbabwe","1960",99.472
+"Afghanistan","1965",107.792
+"AFRICA","1965",98.376
+"Albania","1965",101.783
+"Algeria","1965",100.961
+"Angola","1965",96.181
+"Argentina","1965",101.022
+"Armenia","1965",94.644
+"Aruba","1965",95.952
+"ASIA","1965",104.959
+"Australia","1965",101.54
+"Australia/New Zealand","1965",101.367
+"Austria","1965",88.028
+"Azerbaijan","1965",93.35
+"Bahamas","1965",95.641
+"Bahrain","1965",101.088
+"Bangladesh","1965",110.752
+"Barbados","1965",85.166
+"Belarus","1965",83.843
+"Belgium","1965",96.4
+"Belize","1965",98.396
+"Benin","1965",90.313
+"Bhutan","1965",103.845
+"Bolivia","1965",97.66
+"Bosnia and Herzegovina","1965",96.597
+"Botswana","1965",91.199
+"Brazil","1965",99.588
+"Brunei","1965",106.649
+"Bulgaria","1965",99.903
+"Burkina Faso","1965",102.665
+"Burundi","1965",92.542
+"Cambodia","1965",100.111
+"Cameroon","1965",97.083
+"Canada","1965",101.165
+"Cape Verde","1965",88.611
+"Caribbean","1965",99.499
+"Central African Rep.","1965",96.667
+"Central America","1965",99.924
+"Chad","1965",96.658
+"Channel Islands","1965",93.675
+"Chile","1965",97.625
+"China","1965",105.126
+"Hong Kong, China","1965",103.03
+"Macao, China","1965",101.889
+"Colombia","1965",99.202
+"Comoros","1965",99.417
+"Congo, Rep.","1965",97.882
+"Costa Rica","1965",103.373
+"Cote d'Ivoire","1965",105.315
+"Croatia","1965",91.943
+"Cuba","1965",103.651
+"Cyprus","1965",96.392
+"Czech Rep.","1965",94.108
+"Korea, Dem. Rep.","1965",90.812
+"Congo, Dem. Rep.","1965",92.639
+"Denmark","1965",98.333
+"Djibouti","1965",98.285
+"Dominican Rep.","1965",103.294
+"Eastern Africa","1965",97.91
+"Eastern Asia","1965",103.725
+"Eastern Europe","1965",86.123
+"Ecuador","1965",100.435
+"Egypt","1965",100.328
+"El Salvador","1965",98.347
+"Equatorial Guinea","1965",95.924
+"Eritrea","1965",98.492
+"Estonia","1965",80.031
+"Ethiopia","1965",98.28
+"EUROPE","1965",90.285
+"Fiji","1965",104.154
+"Finland","1965",93.308
+"France","1965",94.808
+"French Guiana","1965",111.611
+"French Polynesia","1965",105.377
+"Gabon","1965",95.285
+"Gambia","1965",96.234
+"Georgia","1965",88.012
+"Germany","1965",88.963
+"Ghana","1965",101.955
+"Greece","1965",94.651
+"Grenada","1965",88.56
+"Guadeloupe","1965",96.789
+"Guam","1965",132.77
+"Guatemala","1965",102.636
+"Guinea","1965",99.327
+"Guinea-Bissau","1965",97.506
+"Guyana","1965",99.505
+"Haiti","1965",96.956
+"Honduras","1965",101.11
+"Hungary","1965",93.443
+"Iceland","1965",102.107
+"India","1965",108.914
+"Indonesia","1965",99.677
+"Iran","1965",103.79
+"Iraq","1965",102.653
+"Ireland","1965",101.119
+"Israel","1965",102.343
+"Italy","1965",94.234
+"Jamaica","1965",91.479
+"Japan","1965",96.449
+"Jordan","1965",106.603
+"Kazakhstan","1965",92.919
+"Kenya","1965",99.978
+"Kuwait","1965",157.041
+"Kyrgyzstan","1965",90.988
+"Laos","1965",97.08
+"LATIN AMERICA AND THE CARIBBEAN","1965",99.883
+"Latvia","1965",82.195
+"Least developed countries","1965",101.111
+"Lebanon","1965",101.49
+"Lesotho","1965",85.439
+"Less developed regions","1965",103.853
+"Less developed regions, excluding China","1965",103.306
+"Less developed regions, excluding least developed countries","1965",104.223
+"Liberia","1965",97.16
+"Libya","1965",107.836
+"Lithuania","1965",87.178
+"Luxembourg","1965",96.674
+"Madagascar","1965",103.519
+"Malawi","1965",92.512
+"Malaysia","1965",102.896
+"Maldives","1965",113.112
+"Mali","1965",102.809
+"Malta","1965",93.037
+"Martinique","1965",93.056
+"Mauritania","1965",99.674
+"Mauritius","1965",100.033
+"Mayotte","1965",114.541
+"Melanesia","1965",105.767
+"Mexico","1965",99.453
+"Micronesia","1965",112.011
+"Micronesia, Fed. Sts.","1965",106.308
+"Middle Africa","1965",94.721
+"Mongolia","1965",98.468
+"Montenegro","1965",95.119
+"More developed regions","1965",92.684
+"Morocco","1965",99.925
+"Mozambique","1965",95.607
+"Myanmar","1965",97.976
+"Namibia","1965",97.295
+"Nepal","1965",107.117
+"Netherlands","1965",99.578
+"Netherlands Antilles","1965",97.48
+"New Caledonia","1965",110.822
+"New Zealand","1965",100.611
+"Nicaragua","1965",99.884
+"Niger","1965",95.345
+"Nigeria","1965",97.314
+"Northern Africa","1965",100.658
+"NORTHERN AMERICA","1965",97.65
+"Northern Europe","1965",94.523
+"Norway","1965",99.304
+"West Bank and Gaza","1965",106.602
+"OCEANIA","1965",102.269
+"Oman","1965",96.585
+"Pakistan","1965",116.922
+"Panama","1965",104.287
+"Papua New Guinea","1965",105.479
+"Paraguay","1965",98.144
+"Peru","1965",101.585
+"Philippines","1965",100.975
+"Poland","1965",94.312
+"Polynesia","1965",103.236
+"Portugal","1965",91.024
+"Puerto Rico","1965",96.053
+"Qatar","1965",159.115
+"Korea, Rep.","1965",101.019
+"Moldova","1965",87.976
+"Reunion","1965",95.32
+"Romania","1965",95.923
+"Russia","1965",82.404
+"Rwanda","1965",97.501
+"Saint Lucia","1965",92.444
+"Saint Vincent and the Grenadines","1965",88.069
+"Samoa","1965",102.202
+"Sao Tome and Principe","1965",112.274
+"Saudi Arabia","1965",103.995
+"Senegal","1965",102.432
+"Serbia","1965",97.682
+"Sierra Leone","1965",95.174
+"Singapore","1965",106.468
+"Slovak Republic","1965",95.899
+"Slovenia","1965",91.891
+"Solomon Islands","1965",113.031
+"Somalia","1965",97.732
+"South Africa","1965",98.819
+"South America","1965",99.922
+"South-Central Asia","1965",108.746
+"South-Eastern Asia","1965",99.892
+"Southern Africa","1965",97.835
+"Southern Europe","1965",94.396
+"Spain","1965",94.177
+"Sri Lanka","1965",108.02
+"Sub- Saharan Africa","1965",97.783
+"Sudan","1965",99.75
+"Suriname","1965",99.278
+"Swaziland","1965",91.433
+"Sweden","1965",99.742
+"Switzerland","1965",94.968
+"Syria","1965",103.509
+"Tajikistan","1965",96.382
+"Macedonia, FYR","1965",102.626
+"Thailand","1965",100.7
+"Timor-Leste","1965",103.412
+"Togo","1965",96.741
+"Tonga","1965",105.084
+"Trinidad and Tobago","1965",99.42
+"Tunisia","1965",104.298
+"Turkey","1965",104.21
+"Turkmenistan","1965",96.701
+"Uganda","1965",98.774
+"Ukraine","1965",81.38
+"United Arab Emirates","1965",138.436
+"United Kingdom","1965",94.232
+"Tanzania","1965",96.395
+"United States","1965",97.309
+"Virgin Islands (U.S.)","1965",99.666
+"Uruguay","1965",99.445
+"Uzbekistan","1965",94.409
+"Vanuatu","1965",105.781
+"Venezuela","1965",103.226
+"Vietnam","1965",99.125
+"Western Africa","1965",98.566
+"Western Asia","1965",101.968
+"Western Europe","1965",92.124
+"Western Sahara","1965",119.292
+"WORLD","1965",100.485
+"Yemen, Rep.","1965",101.813
+"Zambia","1965",98.698
+"Zimbabwe","1965",99.501
+"Afghanistan","1970",107.845
+"AFRICA","1970",98.309
+"Albania","1970",102.079
+"Algeria","1970",95.679
+"Angola","1970",96.328
+"Argentina","1970",99.742
+"Armenia","1970",95.504
+"Aruba","1970",95.992
+"ASIA","1970",104.992
+"Australia","1970",101.565
+"Australia/New Zealand","1970",101.263
+"Austria","1970",89.083
+"Azerbaijan","1970",94.332
+"Bahamas","1970",98.253
+"Bahrain","1970",115.655
+"Bangladesh","1970",109.147
+"Barbados","1970",88.547
+"Belarus","1970",84.911
+"Belgium","1970",95.956
+"Belize","1970",99.251
+"Benin","1970",91.522
+"Bhutan","1970",103.323
+"Bolivia","1970",97.339
+"Bosnia and Herzegovina","1970",95.973
+"Botswana","1970",92.297
+"Brazil","1970",99.69
+"Brunei","1970",106.858
+"Bulgaria","1970",99.963
+"Burkina Faso","1970",100.872
+"Burundi","1970",92.732
+"Cambodia","1970",100.237
+"Cameroon","1970",97.471
+"Canada","1970",100.99
+"Cape Verde","1970",90.823
+"Caribbean","1970",99.862
+"Central African Rep.","1970",96.625
+"Central America","1970",100.031
+"Chad","1970",96.681
+"Channel Islands","1970",94.006
+"Chile","1970",97.427
+"China","1970",105.428
+"Hong Kong, China","1970",103.479
+"Macao, China","1970",105.707
+"Colombia","1970",99.235
+"Comoros","1970",99.697
+"Congo, Rep.","1970",98.193
+"Costa Rica","1970",103.089
+"Cote d'Ivoire","1970",106.473
+"Croatia","1970",93.511
+"Cuba","1970",103.432
+"Cyprus","1970",97.713
+"Czech Rep.","1970",93.929
+"Korea, Dem. Rep.","1970",92.902
+"Congo, Dem. Rep.","1970",93.765
+"Denmark","1970",98.532
+"Djibouti","1970",98.438
+"Dominican Rep.","1970",103.019
+"Eastern Africa","1970",97.927
+"Eastern Asia","1970",104.045
+"Eastern Europe","1970",87.061
+"Ecuador","1970",100.783
+"Egypt","1970",100.384
+"El Salvador","1970",98.986
+"Equatorial Guinea","1970",95.974
+"Eritrea","1970",98.816
+"Estonia","1970",84.265
+"Ethiopia","1970",98.323
+"EUROPE","1970",90.961
+"Fiji","1970",103.519
+"Finland","1970",93.448
+"France","1970",95.356
+"French Guiana","1970",110.479
+"French Polynesia","1970",105.497
+"Gabon","1970",95.593
+"Gambia","1970",96.56
+"Georgia","1970",88.572
+"Germany","1970",89.574
+"Ghana","1970",101.937
+"Greece","1970",95.357
+"Grenada","1970",89.804
+"Guadeloupe","1970",96.439
+"Guam","1970",125.408
+"Guatemala","1970",102.537
+"Guinea","1970",99.813
+"Guinea-Bissau","1970",97.416
+"Guyana","1970",98.795
+"Haiti","1970",97.062
+"Honduras","1970",101.007
+"Hungary","1970",94.09
+"Iceland","1970",102.282
+"India","1970",108.945
+"Indonesia","1970",100.032
+"Iran","1970",104.176
+"Iraq","1970",103.567
+"Ireland","1970",101.014
+"Israel","1970",101.684
+"Italy","1970",94.495
+"Jamaica","1970",95.298
+"Japan","1970",96.372
+"Jordan","1970",105.599
+"Kazakhstan","1970",92.939
+"Kenya","1970",99.531
+"Kuwait","1970",130.855
+"Kyrgyzstan","1970",91.558
+"Laos","1970",97.565
+"LATIN AMERICA AND THE CARIBBEAN","1970",99.852
+"Latvia","1970",84.183
+"Least developed countries","1970",100.809
+"Lebanon","1970",101.462
+"Lesotho","1970",85.954
+"Less developed regions","1970",103.841
+"Less developed regions, excluding China","1970",103.152
+"Less developed regions, excluding least developed countries","1970",104.252
+"Liberia","1970",97.107
+"Libya","1970",110.226
+"Lithuania","1970",88.415
+"Luxembourg","1970",96.282
+"Madagascar","1970",102.85
+"Malawi","1970",92.681
+"Malaysia","1970",101.903
+"Maldives","1970",112.238
+"Mali","1970",102.014
+"Malta","1970",93.134
+"Martinique","1970",96.084
+"Mauritania","1970",100.154
+"Mauritius","1970",100.136
+"Mayotte","1970",111.202
+"Melanesia","1970",105.809
+"Mexico","1970",99.58
+"Micronesia","1970",109.663
+"Micronesia, Fed. Sts.","1970",106.418
+"Middle Africa","1970",95.341
+"Mongolia","1970",99.22
+"Montenegro","1970",95.703
+"More developed regions","1970",92.977
+"Morocco","1970",100.45
+"Mozambique","1970",95.692
+"Myanmar","1970",97.885
+"Namibia","1970",97.353
+"Nepal","1970",105.639
+"Netherlands","1970",99.637
+"Netherlands Antilles","1970",97.752
+"New Caledonia","1970",109.373
+"New Zealand","1970",99.911
+"Nicaragua","1970",99.908
+"Niger","1970",97.063
+"Nigeria","1970",97.584
+"Northern Africa","1970",99.653
+"NORTHERN AMERICA","1970",96.789
+"Northern Europe","1970",94.744
+"Norway","1970",98.963
+"West Bank and Gaza","1970",105.238
+"OCEANIA","1970",102.187
+"Oman","1970",96.72
+"Pakistan","1970",114.602
+"Panama","1970",104.26
+"Papua New Guinea","1970",105.528
+"Paraguay","1970",99.545
+"Peru","1970",101.594
+"Philippines","1970",101.309
+"Poland","1970",94.414
+"Polynesia","1970",103.38
+"Portugal","1970",90.916
+"Puerto Rico","1970",96.222
+"Qatar","1970",182.42
+"Korea, Rep.","1970",100.523
+"Moldova","1970",87.819
+"Reunion","1970",93.412
+"Romania","1970",96.483
+"Russia","1970",83.589
+"Rwanda","1970",97.528
+"Saint Lucia","1970",92.611
+"Saint Vincent and the Grenadines","1970",89.745
+"Samoa","1970",101.941
+"Sao Tome and Principe","1970",103.128
+"Saudi Arabia","1970",105.905
+"Senegal","1970",103.229
+"Serbia","1970",97.686
+"Sierra Leone","1970",94.939
+"Singapore","1970",104.899
+"Slovak Republic","1970",97.432
+"Slovenia","1970",93.795
+"Solomon Islands","1970",111.918
+"Somalia","1970",97.675
+"South Africa","1970",99.113
+"South America","1970",99.786
+"South-Central Asia","1970",108.432
+"South-Eastern Asia","1970",100.009
+"Southern Africa","1970",98.14
+"Southern Europe","1970",94.97
+"Spain","1970",95.369
+"Sri Lanka","1970",106.357
+"Sub- Saharan Africa","1970",98.001
+"Sudan","1970",99.974
+"Suriname","1970",99.625
+"Swaziland","1970",90.361
+"Sweden","1970",99.744
+"Switzerland","1970",95.514
+"Syria","1970",102.86
+"Tajikistan","1970",96.997
+"Macedonia, FYR","1970",102.733
+"Thailand","1970",100.633
+"Timor-Leste","1970",103.808
+"Togo","1970",96.89
+"Tonga","1970",105.309
+"Trinidad and Tobago","1970",97.445
+"Tunisia","1970",97.969
+"Turkey","1970",103.31
+"Turkmenistan","1970",96.95
+"Uganda","1970",98.833
+"Ukraine","1970",82.595
+"United Arab Emirates","1970",167.431
+"United Kingdom","1970",94.295
+"Tanzania","1970",96.764
+"United States","1970",96.361
+"Virgin Islands (U.S.)","1970",99.461
+"Uruguay","1970",98.822
+"Uzbekistan","1970",94.892
+"Vanuatu","1970",113.019
+"Venezuela","1970",102.557
+"Vietnam","1970",98.973
+"Western Africa","1970",98.81
+"Western Asia","1970",101.913
+"Western Europe","1970",92.661
+"Western Sahara","1970",122.127
+"WORLD","1970",100.752
+"Yemen, Rep.","1970",100.186
+"Zambia","1970",98.743
+"Zimbabwe","1970",99.433
+"Afghanistan","1975",107.875
+"AFRICA","1975",98.611
+"Albania","1975",102.311
+"Algeria","1975",97.343
+"Angola","1975",96.518
+"Argentina","1975",98.674
+"Armenia","1975",95.307
+"Aruba","1975",95.301
+"ASIA","1975",105.188
+"Australia","1975",100.745
+"Australia/New Zealand","1975",100.529
+"Austria","1975",89.561
+"Azerbaijan","1975",95.178
+"Bahamas","1975",96.323
+"Bahrain","1975",121.396
+"Bangladesh","1975",107.518
+"Barbados","1975",91.766
+"Belarus","1975",85.859
+"Belgium","1975",95.613
+"Belize","1975",100.33
+"Benin","1975",92.619
+"Bhutan","1975",106.26
+"Bolivia","1975",97.11
+"Bosnia and Herzegovina","1975",96.699
+"Botswana","1975",93.806
+"Brazil","1975",99.623
+"Brunei","1975",106.68
+"Bulgaria","1975",99.698
+"Burkina Faso","1975",99.342
+"Burundi","1975",91.827
+"Cambodia","1975",100.197
+"Cameroon","1975",97.872
+"Canada","1975",100.149
+"Cape Verde","1975",87.744
+"Caribbean","1975",99.663
+"Central African Rep.","1975",96.559
+"Central America","1975",99.947
+"Chad","1975",96.802
+"Channel Islands","1975",93.628
+"Chile","1975",97.318
+"China","1975",105.941
+"Hong Kong, China","1975",104.751
+"Macao, China","1975",104.593
+"Colombia","1975",99.18
+"Comoros","1975",99.713
+"Congo, Rep.","1975",98.475
+"Costa Rica","1975",102.741
+"Cote d'Ivoire","1975",107.698
+"Croatia","1975",93.601
+"Cuba","1975",102.827
+"Cyprus","1975",98.904
+"Czech Rep.","1975",93.899
+"Korea, Dem. Rep.","1975",94.214
+"Congo, Dem. Rep.","1975",94.805
+"Denmark","1975",98.09
+"Djibouti","1975",98.65
+"Dominican Rep.","1975",102.801
+"Eastern Africa","1975",97.941
+"Eastern Asia","1975",104.609
+"Eastern Europe","1975",87.588
+"Ecuador","1975",101.021
+"Egypt","1975",100.509
+"El Salvador","1975",97.871
+"Equatorial Guinea","1975",95.027
+"Eritrea","1975",98.873
+"Estonia","1975",85.663
+"Ethiopia","1975",98.386
+"EUROPE","1975",91.362
+"Fiji","1975",102.319
+"Finland","1975",93.61
+"France","1975",95.841
+"French Guiana","1975",100.437
+"French Polynesia","1975",109.13
+"Gabon","1975",96.186
+"Gambia","1975",96.912
+"Georgia","1975",88.59
+"Germany","1975",90.244
+"Ghana","1975",101.953
+"Greece","1975",96.027
+"Grenada","1975",91.394
+"Guadeloupe","1975",95.769
+"Guam","1975",116.822
+"Guatemala","1975",102.392
+"Guinea","1975",100.363
+"Guinea-Bissau","1975",97.56
+"Guyana","1975",98.491
+"Haiti","1975",96.858
+"Honduras","1975",100.908
+"Hungary","1975",94.207
+"Iceland","1975",102.143
+"India","1975",108.861
+"Indonesia","1975",100.263
+"Iran","1975",104.518
+"Iraq","1975",104.076
+"Ireland","1975",100.262
+"Israel","1975",100.402
+"Italy","1975",94.428
+"Jamaica","1975",95.69
+"Japan","1975",96.884
+"Jordan","1975",104.725
+"Kazakhstan","1975",93.121
+"Kenya","1975",99.264
+"Kuwait","1975",120.716
+"Kyrgyzstan","1975",93.465
+"Laos","1975",98.16
+"LATIN AMERICA AND THE CARIBBEAN","1975",99.71
+"Latvia","1975",85.063
+"Least developed countries","1975",100.541
+"Lebanon","1975",101.387
+"Lesotho","1975",85.737
+"Less developed regions","1975",103.968
+"Less developed regions, excluding China","1975",103.122
+"Less developed regions, excluding least developed countries","1975",104.438
+"Liberia","1975",97.083
+"Libya","1975",112.678
+"Lithuania","1975",88.995
+"Luxembourg","1975",98.466
+"Madagascar","1975",102.063
+"Malawi","1975",93.072
+"Malaysia","1975",101.31
+"Maldives","1975",111.558
+"Mali","1975",101.356
+"Malta","1975",93.38
+"Martinique","1975",93.921
+"Mauritania","1975",100.427
+"Mauritius","1975",97.44
+"Mayotte","1975",108.404
+"Melanesia","1975",105.167
+"Mexico","1975",99.574
+"Micronesia","1975",107.268
+"Micronesia, Fed. Sts.","1975",107.003
+"Middle Africa","1975",95.966
+"Mongolia","1975",99.901
+"Montenegro","1975",97.168
+"More developed regions","1975",93.335
+"Morocco","1975",99.873
+"Mozambique","1975",95.833
+"Myanmar","1975",97.834
+"Namibia","1975",97.412
+"Nepal","1975",105.497
+"Netherlands","1975",99.157
+"Netherlands Antilles","1975",97.98
+"New Caledonia","1975",108.521
+"New Zealand","1975",99.581
+"Nicaragua","1975",100.364
+"Niger","1975",98.383
+"Nigeria","1975",97.873
+"Northern Africa","1975",100.257
+"NORTHERN AMERICA","1975",96.875
+"Northern Europe","1975",94.996
+"Norway","1975",98.699
+"West Bank and Gaza","1975",104.395
+"OCEANIA","1975",101.531
+"Oman","1975",101.69
+"Pakistan","1975",112.554
+"Panama","1975",103.844
+"Papua New Guinea","1975",105.049
+"Paraguay","1975",100.759
+"Peru","1975",101.573
+"Philippines","1975",101.558
+"Poland","1975",94.745
+"Polynesia","1975",105.019
+"Portugal","1975",90.294
+"Puerto Rico","1975",95.75
+"Qatar","1975",204.036
+"Korea, Rep.","1975",100.991
+"Moldova","1975",88.618
+"Reunion","1975",94.609
+"Romania","1975",96.988
+"Russia","1975",84.207
+"Rwanda","1975",97.566
+"Saint Lucia","1975",93.89
+"Saint Vincent and the Grenadines","1975",91.221
+"Samoa","1975",103.31
+"Sao Tome and Principe","1975",101.378
+"Saudi Arabia","1975",110.57
+"Senegal","1975",103.368
+"Serbia","1975",98.143
+"Sierra Leone","1975",94.849
+"Singapore","1975",104.501
+"Slovak Republic","1975",97.329
+"Slovenia","1975",93.836
+"Solomon Islands","1975",109.434
+"Somalia","1975",97.686
+"South Africa","1975",99.316
+"South America","1975",99.627
+"South-Central Asia","1975",108.109
+"South-Eastern Asia","1975",100.047
+"Southern Africa","1975",98.361
+"Southern Europe","1975",95.102
+"Spain","1975",95.673
+"Sri Lanka","1975",104.99
+"Sub- Saharan Africa","1975",98.219
+"Sudan","1975",100.241
+"Suriname","1975",100.568
+"Swaziland","1975",90.489
+"Sweden","1975",98.944
+"Switzerland","1975",95.1
+"Syria","1975",102.335
+"Tajikistan","1975",97.516
+"Macedonia, FYR","1975",102.735
+"Thailand","1975",100.495
+"Timor-Leste","1975",103.512
+"Togo","1975",97.127
+"Tonga","1975",104.817
+"Trinidad and Tobago","1975",98.772
+"Tunisia","1975",102.819
+"Turkey","1975",104.39
+"Turkmenistan","1975",97.016
+"Uganda","1975",98.974
+"Ukraine","1975",83.172
+"United Arab Emirates","1975",225.469
+"United Kingdom","1975",94.769
+"Tanzania","1975",97.13
+"United States","1975",96.532
+"Virgin Islands (U.S.)","1975",95.577
+"Uruguay","1975",98.121
+"Uzbekistan","1975",96.43
+"Vanuatu","1975",113.117
+"Venezuela","1975",102.44
+"Vietnam","1975",98.653
+"Western Africa","1975",99.068
+"Western Asia","1975",103.003
+"Western Europe","1975",93.135
+"Western Sahara","1975",117.213
+"WORLD","1975",101.117
+"Yemen, Rep.","1975",98.398
+"Zambia","1975",98.779
+"Zimbabwe","1975",99.392
+"Afghanistan","1980",107.877
+"AFRICA","1980",98.885
+"Albania","1980",106.629
+"Algeria","1980",100.73
+"Angola","1980",96.758
+"Argentina","1980",97.538
+"Armenia","1980",95.102
+"Aruba","1980",95.025
+"ASIA","1980",105.061
+"Australia","1980",99.739
+"Australia/New Zealand","1980",99.593
+"Austria","1980",89.582
+"Azerbaijan","1980",94.893
+"Bahamas","1980",98.72
+"Bahrain","1980",139.31
+"Bangladesh","1980",106.061
+"Barbados","1980",90.913
+"Belarus","1980",86.71
+"Belgium","1980",95.542
+"Belize","1980",102.401
+"Benin","1980",93.785
+"Bhutan","1980",107.492
+"Bolivia","1980",97.29
+"Bosnia and Herzegovina","1980",96.934
+"Botswana","1980",95.447
+"Brazil","1980",99.564
+"Brunei","1980",113.95
+"Bulgaria","1980",99.31
+"Burkina Faso","1980",97.927
+"Burundi","1980",92.757
+"Cambodia","1980",86.225
+"Cameroon","1980",98.261
+"Canada","1980",99.233
+"Cape Verde","1980",84.805
+"Caribbean","1980",99.578
+"Central African Rep.","1980",96.556
+"Central America","1980",99.765
+"Chad","1980",96.999
+"Channel Islands","1980",92.748
+"Chile","1980",97.333
+"China","1980",106.297
+"Hong Kong, China","1980",108.753
+"Macao, China","1980",103.654
+"Colombia","1980",99.177
+"Comoros","1980",99.837
+"Congo, Rep.","1980",98.78
+"Costa Rica","1980",103.968
+"Cote d'Ivoire","1980",108.51
+"Croatia","1980",93.816
+"Cuba","1980",102.448
+"Cyprus","1980",99.509
+"Czech Rep.","1980",94.04
+"Korea, Dem. Rep.","1980",94.814
+"Congo, Dem. Rep.","1980",95.715
+"Denmark","1980",97.465
+"Djibouti","1980",98.923
+"Dominican Rep.","1980",102.602
+"Eastern Africa","1980",97.762
+"Eastern Asia","1980",104.925
+"Eastern Europe","1980",88.456
+"Ecuador","1980",101.143
+"Egypt","1980",100.416
+"El Salvador","1980",96.735
+"Equatorial Guinea","1980",94.823
+"Eritrea","1980",97.04
+"Estonia","1980",86.06
+"Ethiopia","1980",98.436
+"EUROPE","1980",91.799
+"Fiji","1980",102.542
+"Finland","1980",93.604
+"France","1980",95.309
+"French Guiana","1980",108.146
+"French Polynesia","1980",109.766
+"Gabon","1980",96.798
+"Gambia","1980",97.195
+"Georgia","1980",88.423
+"Germany","1980",90.8
+"Ghana","1980",102.011
+"Greece","1980",96.418
+"Grenada","1980",93.492
+"Guadeloupe","1980",95.938
+"Guam","1980",108.821
+"Guatemala","1980",102.264
+"Guinea","1980",100.87
+"Guinea-Bissau","1980",97.592
+"Guyana","1980",98.19
+"Haiti","1980",96.869
+"Honduras","1980",100.891
+"Hungary","1980",93.986
+"Iceland","1980",101.681
+"India","1980",108.55
+"Indonesia","1980",100.496
+"Iran","1980",104.714
+"Iraq","1980",103.921
+"Ireland","1980",101.094
+"Israel","1980",99.883
+"Italy","1980",94.04
+"Jamaica","1980",97.3
+"Japan","1980",96.81
+"Jordan","1980",107.269
+"Kazakhstan","1980",92.915
+"Kenya","1980",99.199
+"Kuwait","1980",134.183
+"Kyrgyzstan","1980",94.148
+"Laos","1980",98.734
+"LATIN AMERICA AND THE CARIBBEAN","1980",99.557
+"Latvia","1980",85.244
+"Least developed countries","1980",99.981
+"Lebanon","1980",98.265
+"Lesotho","1980",85.631
+"Less developed regions","1980",103.849
+"Less developed regions, excluding China","1980",102.842
+"Less developed regions, excluding least developed countries","1980",104.393
+"Liberia","1980",97.174
+"Libya","1980",114.767
+"Lithuania","1980",88.92
+"Luxembourg","1980",95.741
+"Madagascar","1980",101.392
+"Malawi","1980",93.805
+"Malaysia","1980",101.373
+"Maldives","1980",110.803
+"Mali","1980",100.421
+"Malta","1980",94.814
+"Martinique","1980",94.125
+"Mauritania","1980",100.764
+"Mauritius","1980",97.291
+"Mayotte","1980",106.269
+"Melanesia","1980",111.294
+"Mexico","1980",99.388
+"Micronesia","1980",104.424
+"Micronesia, Fed. Sts.","1980",104.536
+"Middle Africa","1980",96.556
+"Mongolia","1980",100.485
+"Montenegro","1980",98.336
+"More developed regions","1980",93.521
+"Morocco","1980",100.056
+"Mozambique","1980",95.71
+"Myanmar","1980",97.77
+"Namibia","1980",95.085
+"Nepal","1980",105.271
+"Netherlands","1980",98.498
+"Netherlands Antilles","1980",93.248
+"New Caledonia","1980",106.055
+"New Zealand","1980",98.914
+"Nicaragua","1980",100.395
+"Niger","1980",99.406
+"Nigeria","1980",98.685
+"Northern Africa","1980",100.939
+"NORTHERN AMERICA","1980",96.401
+"Northern Europe","1980",94.922
+"Norway","1980",98.244
+"West Bank and Gaza","1980",106.729
+"OCEANIA","1980",101.891
+"Oman","1980",111.209
+"Pakistan","1980",110.85
+"Panama","1980",103.346
+"Papua New Guinea","1980",113.517
+"Paraguay","1980",101.736
+"Peru","1980",101.363
+"Philippines","1980",101.659
+"Poland","1980",95.013
+"Polynesia","1980",105.93
+"Portugal","1980",92.802
+"Puerto Rico","1980",94.934
+"Qatar","1980",175.127
+"Korea, Rep.","1980",100.28
+"Moldova","1980",89.668
+"Reunion","1980",95.82
+"Romania","1980",97.385
+"Russia","1980",85.448
+"Rwanda","1980",92.134
+"Saint Lucia","1980",95.684
+"Saint Vincent and the Grenadines","1980",93.901
+"Samoa","1980",105.138
+"Sao Tome and Principe","1980",98.962
+"Saudi Arabia","1980",117.48
+"Senegal","1980",102.227
+"Serbia","1980",98.248
+"Sierra Leone","1980",94.661
+"Singapore","1980",104.187
+"Slovak Republic","1980",96.627
+"Slovenia","1980",93.372
+"Solomon Islands","1980",108.733
+"Somalia","1980",97.724
+"South Africa","1980",98.974
+"South America","1980",99.476
+"South-Central Asia","1980",107.635
+"South-Eastern Asia","1980",99.18
+"Southern Africa","1980",98.024
+"Southern Europe","1980",95.421
+"Spain","1980",96.256
+"Sri Lanka","1980",104.113
+"Sub- Saharan Africa","1980",98.382
+"Sudan","1980",100.522
+"Suriname","1980",102.061
+"Swaziland","1980",90.419
+"Sweden","1980",98.208
+"Switzerland","1980",94.73
+"Syria","1980",101.465
+"Tajikistan","1980",97.864
+"Macedonia, FYR","1980",102.652
+"Thailand","1980",100.33
+"Timor-Leste","1980",103.89
+"Togo","1980",97.39
+"Tonga","1980",103.741
+"Trinidad and Tobago","1980",99.908
+"Tunisia","1980",102.708
+"Turkey","1980",102.105
+"Turkmenistan","1980",96.642
+"Uganda","1980",99.072
+"Ukraine","1980",84.126
+"United Arab Emirates","1980",223.212
+"United Kingdom","1980",94.775
+"Tanzania","1980",97.479
+"United States","1980",96.099
+"Virgin Islands (U.S.)","1980",92.44
+"Uruguay","1980",96.276
+"Uzbekistan","1980",96.737
+"Vanuatu","1980",112.241
+"Venezuela","1980",102.486
+"Vietnam","1980",94.279
+"Western Africa","1980",99.516
+"Western Asia","1980",103.29
+"Western Europe","1980",93.204
+"Western Sahara","1980",117.034
+"WORLD","1980",101.231
+"Yemen, Rep.","1980",99.518
+"Zambia","1980",98.859
+"Zimbabwe","1980",98.904
+"Afghanistan","1985",107.841
+"AFRICA","1985",99.005
+"Albania","1985",106.454
+"Algeria","1985",101.16
+"Angola","1985",96.959
+"Argentina","1985",96.998
+"Armenia","1985",95.689
+"Aruba","1985",95.896
+"ASIA","1985",105.008
+"Australia","1985",99.637
+"Australia/New Zealand","1985",99.492
+"Austria","1985",90.389
+"Azerbaijan","1985",94.919
+"Bahamas","1985",98.533
+"Bahrain","1985",143.695
+"Bangladesh","1985",104.885
+"Barbados","1985",91.914
+"Belarus","1985",87.372
+"Belgium","1985",94.836
+"Belize","1985",102.374
+"Benin","1985",95.107
+"Bhutan","1985",106.281
+"Bolivia","1985",97.653
+"Bosnia and Herzegovina","1985",97.338
+"Botswana","1985",95.892
+"Brazil","1985",99.188
+"Brunei","1985",112.176
+"Bulgaria","1985",98.757
+"Burkina Faso","1985",97.048
+"Burundi","1985",94.09
+"Cambodia","1985",89.053
+"Cameroon","1985",98.551
+"Canada","1985",98.612
+"Cape Verde","1985",86.617
+"Caribbean","1985",99.307
+"Central African Rep.","1985",96.577
+"Central America","1985",99.112
+"Chad","1985",97.305
+"Channel Islands","1985",93.467
+"Chile","1985",97.402
+"China","1985",106.39
+"Hong Kong, China","1985",106.628
+"Macao, China","1985",98.847
+"Colombia","1985",98.858
+"Comoros","1985",100.033
+"Congo, Rep.","1985",99.026
+"Costa Rica","1985",103.747
+"Cote d'Ivoire","1985",108.655
+"Croatia","1985",93.777
+"Cuba","1985",101.327
+"Cyprus","1985",99.043
+"Czech Rep.","1985",94.2
+"Korea, Dem. Rep.","1985",95.489
+"Congo, Dem. Rep.","1985",96.472
+"Denmark","1985",97.069
+"Djibouti","1985",99.2
+"Dominican Rep.","1985",102.375
+"Eastern Africa","1985",97.888
+"Eastern Asia","1985",105.006
+"Eastern Europe","1985",89.18
+"Ecuador","1985",101.151
+"Egypt","1985",100.928
+"El Salvador","1985",95.317
+"Equatorial Guinea","1985",96.417
+"Eritrea","1985",96.375
+"Estonia","1985",87
+"Ethiopia","1985",98.446
+"EUROPE","1985",92.13
+"Fiji","1985",102.671
+"Finland","1985",93.862
+"France","1985",94.936
+"French Guiana","1985",110.148
+"French Polynesia","1985",108.83
+"Gabon","1985",97.448
+"Gambia","1985",97.463
+"Georgia","1985",89.484
+"Germany","1985",91.22
+"Ghana","1985",102.062
+"Greece","1985",96.82
+"Grenada","1985",95.126
+"Guadeloupe","1985",95.675
+"Guam","1985",111.474
+"Guatemala","1985",102.01
+"Guinea","1985",101.298
+"Guinea-Bissau","1985",97.687
+"Guyana","1985",96.631
+"Haiti","1985",97
+"Honduras","1985",100.703
+"Hungary","1985",93.245
+"Iceland","1985",101.24
+"India","1985",108.322
+"Indonesia","1985",100.488
+"Iran","1985",105.412
+"Iraq","1985",103.1
+"Ireland","1985",100.841
+"Israel","1985",99.584
+"Italy","1985",94.252
+"Jamaica","1985",98.24
+"Japan","1985",96.661
+"Jordan","1985",109.428
+"Kazakhstan","1985",93.187
+"Kenya","1985",99.261
+"Kuwait","1985",131.471
+"Kyrgyzstan","1985",94.56
+"Laos","1985",99.393
+"LATIN AMERICA AND THE CARIBBEAN","1985",99.165
+"Latvia","1985",85.838
+"Least developed countries","1985",99.773
+"Lebanon","1985",96.579
+"Lesotho","1985",86.132
+"Less developed regions","1985",103.734
+"Less developed regions, excluding China","1985",102.701
+"Less developed regions, excluding least developed countries","1985",104.305
+"Liberia","1985",97.304
+"Libya","1985",113.463
+"Lithuania","1985",89.037
+"Luxembourg","1985",94.642
+"Madagascar","1985",100.816
+"Malawi","1985",94.923
+"Malaysia","1985",101.514
+"Maldives","1985",107.64
+"Mali","1985",99.493
+"Malta","1985",96.721
+"Martinique","1985",93.798
+"Mauritania","1985",100.909
+"Mauritius","1985",98.57
+"Mayotte","1985",106.507
+"Melanesia","1985",108.633
+"Mexico","1985",98.653
+"Micronesia","1985",105.932
+"Micronesia, Fed. Sts.","1985",104.871
+"Middle Africa","1985",97.067
+"Mongolia","1985",100.994
+"Montenegro","1985",98.667
+"More developed regions","1985",93.741
+"Morocco","1985",99.906
+"Mozambique","1985",95.121
+"Myanmar","1985",97.745
+"Namibia","1985",94.27
+"Nepal","1985",104.407
+"Netherlands","1985",97.863
+"Netherlands Antilles","1985",92.551
+"New Caledonia","1985",104.491
+"New Zealand","1985",98.794
+"Nicaragua","1985",100.122
+"Niger","1985",98.176
+"Nigeria","1985",98.585
+"Northern Africa","1985",101.215
+"NORTHERN AMERICA","1985",96.381
+"Northern Europe","1985",94.735
+"Norway","1985",97.808
+"West Bank and Gaza","1985",105.882
+"OCEANIA","1985",101.46
+"Oman","1985",117.453
+"Pakistan","1985",109.294
+"Panama","1985",103.015
+"Papua New Guinea","1985",110.055
+"Paraguay","1985",102.176
+"Peru","1985",101.065
+"Philippines","1985",101.747
+"Poland","1985",95.197
+"Polynesia","1985",106.239
+"Portugal","1985",93.12
+"Puerto Rico","1985",95.515
+"Qatar","1985",206.04
+"Korea, Rep.","1985",99.991
+"Moldova","1985",90.4
+"Reunion","1985",95.768
+"Romania","1985",97.427
+"Russia","1985",86.569
+"Rwanda","1985",93.174
+"Saint Lucia","1985",96.194
+"Saint Vincent and the Grenadines","1985",96.056
+"Samoa","1985",107.94
+"Sao Tome and Principe","1985",98.323
+"Saudi Arabia","1985",123.702
+"Senegal","1985",101.341
+"Serbia","1985",98.471
+"Sierra Leone","1985",94.594
+"Singapore","1985",103.853
+"Slovak Republic","1985",96.521
+"Slovenia","1985",93.413
+"Solomon Islands","1985",108.035
+"Somalia","1985",97.754
+"South Africa","1985",98.856
+"South America","1985",99.169
+"South-Central Asia","1985",107.27
+"South-Eastern Asia","1985",99.149
+"Southern Africa","1985",97.902
+"Southern Europe","1985",95.608
+"Spain","1985",96.301
+"Sri Lanka","1985",103.105
+"Sub- Saharan Africa","1985",98.466
+"Sudan","1985",100.774
+"Suriname","1985",103.516
+"Swaziland","1985",89.449
+"Sweden","1985",97.576
+"Switzerland","1985",95.042
+"Syria","1985",101.579
+"Tajikistan","1985",98.672
+"Macedonia, FYR","1985",101.216
+"Thailand","1985",98.286
+"Timor-Leste","1985",103.585
+"Togo","1985",97.596
+"Tonga","1985",101.253
+"Trinidad and Tobago","1985",98.924
+"Tunisia","1985",102.463
+"Turkey","1985",102.213
+"Turkmenistan","1985",96.656
+"Uganda","1985",99.126
+"Ukraine","1985",85.074
+"United Arab Emirates","1985",184.87
+"United Kingdom","1985",94.576
+"Tanzania","1985",97.811
+"United States","1985",96.141
+"Virgin Islands (U.S.)","1985",93.964
+"Uruguay","1985",95.186
+"Uzbekistan","1985",97.412
+"Vanuatu","1985",108.884
+"Venezuela","1985",102.09
+"Vietnam","1985",95.409
+"Western Africa","1985",99.413
+"Western Asia","1985",104.325
+"Western Europe","1985",93.273
+"Western Sahara","1985",113.901
+"WORLD","1985",101.348
+"Yemen, Rep.","1985",100.734
+"Zambia","1985",98.888
+"Zimbabwe","1985",99.043
+"Afghanistan","1990",107.808
+"AFRICA","1990",99.015
+"Albania","1990",105.28
+"Algeria","1990",101.505
+"Angola","1990",97.06
+"Argentina","1990",96.671
+"Armenia","1990",94.198
+"Aruba","1990",96.871
+"ASIA","1990",105.017
+"Australia","1990",99.386
+"Australia/New Zealand","1990",99.069
+"Austria","1990",91.801
+"Azerbaijan","1990",95.801
+"Bahamas","1990",98.466
+"Bahrain","1990",138.483
+"Bangladesh","1990",103.997
+"Barbados","1990",92.684
+"Belarus","1990",88.2
+"Belgium","1990",95.427
+"Belize","1990",102.261
+"Benin","1990",96.414
+"Bhutan","1990",105.258
+"Bolivia","1990",98.161
+"Bosnia and Herzegovina","1990",97.688
+"Botswana","1990",96.721
+"Brazil","1990",98.723
+"Brunei","1990",112.176
+"Bulgaria","1990",97.223
+"Burkina Faso","1990",97.218
+"Burundi","1990",95.12
+"Cambodia","1990",90.921
+"Cameroon","1990",98.821
+"Canada","1990",98.325
+"Cape Verde","1990",88.263
+"Caribbean","1990",98.951
+"Central African Rep.","1990",96.45
+"Central America","1990",98.784
+"Chad","1990",97.64
+"Channel Islands","1990",93.718
+"Chile","1990",97.591
+"China","1990",106.572
+"Hong Kong, China","1990",105.021
+"Macao, China","1990",94.338
+"Colombia","1990",98.488
+"Comoros","1990",100.178
+"Congo, Rep.","1990",99.161
+"Costa Rica","1990",103.547
+"Cote d'Ivoire","1990",107.999
+"Croatia","1990",93.722
+"Cuba","1990",101.182
+"Cyprus","1990",99.381
+"Czech Rep.","1990",94.311
+"Korea, Dem. Rep.","1990",96.083
+"Congo, Dem. Rep.","1990",97.07
+"Denmark","1990",97.141
+"Djibouti","1990",99.434
+"Dominican Rep.","1990",102.077
+"Eastern Africa","1990",97.8
+"Eastern Asia","1990",105.189
+"Eastern Europe","1990",89.963
+"Ecuador","1990",101.097
+"Egypt","1990",101.266
+"El Salvador","1990",94.735
+"Equatorial Guinea","1990",97.022
+"Eritrea","1990",96.261
+"Estonia","1990",87.968
+"Ethiopia","1990",98.511
+"EUROPE","1990",92.67
+"Fiji","1990",103.176
+"Finland","1990",94.253
+"France","1990",94.667
+"French Guiana","1990",108.7
+"French Polynesia","1990",108.547
+"Gabon","1990",98.037
+"Gambia","1990",97.749
+"Georgia","1990",90.576
+"Germany","1990",93.156
+"Ghana","1990",102.211
+"Greece","1990",97.135
+"Grenada","1990",97.458
+"Guadeloupe","1990",95.622
+"Guam","1990",114.043
+"Guatemala","1990",101.664
+"Guinea","1990",101.618
+"Guinea-Bissau","1990",97.775
+"Guyana","1990",94.921
+"Haiti","1990",97.352
+"Honduras","1990",100.546
+"Hungary","1990",92.43
+"Iceland","1990",100.794
+"India","1990",108.184
+"Indonesia","1990",100.437
+"Iran","1990",106.189
+"Iraq","1990",101.671
+"Ireland","1990",99.76
+"Israel","1990",99.197
+"Italy","1990",93.997
+"Jamaica","1990",96.482
+"Japan","1990",96.287
+"Jordan","1990",108.791
+"Kazakhstan","1990",93.884
+"Kenya","1990",99.256
+"Kuwait","1990",131.601
+"Kyrgyzstan","1990",95.72
+"Laos","1990",100.065
+"LATIN AMERICA AND THE CARIBBEAN","1990",98.834
+"Latvia","1990",86.933
+"Least developed countries","1990",99.56
+"Lebanon","1990",95.008
+"Lesotho","1990",86.557
+"Less developed regions","1990",103.666
+"Less developed regions, excluding China","1990",102.578
+"Less developed regions, excluding least developed countries","1990",104.275
+"Liberia","1990",97.423
+"Libya","1990",111.6
+"Lithuania","1990",89.768
+"Luxembourg","1990",95.82
+"Madagascar","1990",100.282
+"Malawi","1990",96.647
+"Malaysia","1990",102.985
+"Maldives","1990",104.694
+"Mali","1990",98.656
+"Malta","1990",97.493
+"Martinique","1990",93.422
+"Mauritania","1990",101
+"Mauritius","1990",99.51
+"Mayotte","1990",104.374
+"Melanesia","1990",106.714
+"Mexico","1990",98.321
+"Micronesia","1990",107.024
+"Micronesia, Fed. Sts.","1990",104.699
+"Middle Africa","1990",97.467
+"Mongolia","1990",99.594
+"Montenegro","1990",97.438
+"More developed regions","1990",94.088
+"Morocco","1990",99.476
+"Mozambique","1990",91.555
+"Myanmar","1990",97.533
+"Namibia","1990",95.409
+"Nepal","1990",103.45
+"Netherlands","1990",97.736
+"Netherlands Antilles","1990",91.98
+"New Caledonia","1990",104.518
+"New Zealand","1990",97.484
+"Nicaragua","1990",99.546
+"Niger","1990",97.326
+"Nigeria","1990",98.855
+"Northern Africa","1990",101.306
+"NORTHERN AMERICA","1990",96.461
+"Northern Europe","1990",94.785
+"Norway","1990",97.799
+"West Bank and Gaza","1990",105.141
+"OCEANIA","1990",100.859
+"Oman","1990",125.554
+"Pakistan","1990",108.266
+"Panama","1990",102.49
+"Papua New Guinea","1990",107.39
+"Paraguay","1990",102.163
+"Peru","1990",100.784
+"Philippines","1990",101.754
+"Poland","1990",95.073
+"Polynesia","1990",107.059
+"Portugal","1990",93.075
+"Puerto Rico","1990",93.902
+"Qatar","1990",203.017
+"Korea, Rep.","1990",100.347
+"Moldova","1990",91.061
+"Reunion","1990",96.154
+"Romania","1990",97.377
+"Russia","1990",87.99
+"Rwanda","1990",93.709
+"Saint Lucia","1990",96.44
+"Saint Vincent and the Grenadines","1990",98.88
+"Samoa","1990",110.647
+"Sao Tome and Principe","1990",98.324
+"Saudi Arabia","1990",124.871
+"Senegal","1990",100.66
+"Serbia","1990",98.76
+"Sierra Leone","1990",94.545
+"Singapore","1990",101.279
+"Slovak Republic","1990",95.692
+"Slovenia","1990",93.943
+"Solomon Islands","1990",107.605
+"Somalia","1990",97.87
+"South Africa","1990",97.945
+"South America","1990",98.839
+"South-Central Asia","1990",107.036
+"South-Eastern Asia","1990",99.056
+"Southern Africa","1990",97.17
+"Southern Europe","1990",95.487
+"Spain","1990",96.025
+"Sri Lanka","1990",101.877
+"Sub- Saharan Africa","1990",98.472
+"Sudan","1990",100.978
+"Suriname","1990",103.218
+"Swaziland","1990",89.103
+"Sweden","1990",97.628
+"Switzerland","1990",95.331
+"Syria","1990",101.625
+"Tajikistan","1990",98.692
+"Macedonia, FYR","1990",100.784
+"Thailand","1990",99.191
+"Timor-Leste","1990",106.044
+"Togo","1990",97.728
+"Tonga","1990",101.532
+"Trinidad and Tobago","1990",97.204
+"Tunisia","1990",102.179
+"Turkey","1990",101.972
+"Turkmenistan","1990",97.268
+"Uganda","1990",99.098
+"Ukraine","1990",86.042
+"United Arab Emirates","1990",189.276
+"United Kingdom","1990",94.56
+"Tanzania","1990",98.034
+"United States","1990",96.257
+"Virgin Islands (U.S.)","1990",93.891
+"Uruguay","1990",94.19
+"Uzbekistan","1990",97.747
+"Vanuatu","1990",106.171
+"Venezuela","1990",101.799
+"Vietnam","1990",93.751
+"Western Africa","1990",99.524
+"Western Asia","1990",104.817
+"Western Europe","1990",94.181
+"Western Sahara","1990",111.144
+"WORLD","1990",101.509
+"Yemen, Rep.","1990",101.609
+"Zambia","1990",98.926
+"Zimbabwe","1990",98.871
+"Afghanistan","1995",107.634
+"AFRICA","1995",99.066
+"Albania","1995",101.522
+"Algeria","1995",101.781
+"Angola","1995",97.149
+"Argentina","1995",96.479
+"Armenia","1995",90.221
+"Aruba","1995",97.33
+"ASIA","1995",105.023
+"Australia","1995",98.965
+"Australia/New Zealand","1995",98.711
+"Austria","1995",93.179
+"Azerbaijan","1995",95.58
+"Bahamas","1995",97.619
+"Bahrain","1995",139.541
+"Bangladesh","1995",103.256
+"Barbados","1995",93.187
+"Belarus","1995",88.482
+"Belgium","1995",95.689
+"Belize","1995",102.04
+"Benin","1995",98.883
+"Bhutan","1995",103.523
+"Bolivia","1995",98.678
+"Bosnia and Herzegovina","1995",94.153
+"Botswana","1995",97.47
+"Brazil","1995",98.197
+"Brunei","1995",110.153
+"Bulgaria","1995",95.98
+"Burkina Faso","1995",97.513
+"Burundi","1995",94.909
+"Cambodia","1995",92.719
+"Cameroon","1995",98.982
+"Canada","1995",98.003
+"Cape Verde","1995",89.484
+"Caribbean","1995",98.752
+"Central African Rep.","1995",96.352
+"Central America","1995",98.372
+"Chad","1995",97.975
+"Channel Islands","1995",93.955
+"Chile","1995",97.801
+"China","1995",106.993
+"Hong Kong, China","1995",98.736
+"Macao, China","1995",93.378
+"Colombia","1995",97.781
+"Comoros","1995",100.375
+"Congo, Rep.","1995",99.167
+"Costa Rica","1995",103.475
+"Cote d'Ivoire","1995",107.434
+"Croatia","1995",93.032
+"Cuba","1995",100.86
+"Cyprus","1995",99.595
+"Czech Rep.","1995",94.559
+"Korea, Dem. Rep.","1995",96.344
+"Congo, Dem. Rep.","1995",97.482
+"Denmark","1995",97.424
+"Djibouti","1995",99.599
+"Dominican Rep.","1995",101.712
+"Eastern Africa","1995",97.765
+"Eastern Asia","1995",105.544
+"Eastern Europe","1995",89.977
+"Ecuador","1995",100.978
+"Egypt","1995",101.437
+"El Salvador","1995",93.822
+"Equatorial Guinea","1995",97.499
+"Eritrea","1995",95.206
+"Estonia","1995",86.366
+"Ethiopia","1995",98.622
+"EUROPE","1995",92.805
+"Fiji","1995",103.307
+"Finland","1995",94.871
+"France","1995",94.391
+"French Guiana","1995",107.517
+"French Polynesia","1995",108.121
+"Gabon","1995",98.424
+"Gambia","1995",97.987
+"Georgia","1995",90.451
+"Germany","1995",94.731
+"Ghana","1995",102.393
+"Greece","1995",97.542
+"Grenada","1995",97.802
+"Guadeloupe","1995",94.149
+"Guam","1995",108.817
+"Guatemala","1995",98.876
+"Guinea","1995",101.825
+"Guinea-Bissau","1995",97.887
+"Guyana","1995",94.595
+"Haiti","1995",97.628
+"Honduras","1995",100.256
+"Hungary","1995",91.485
+"Iceland","1995",100.55
+"India","1995",107.958
+"Indonesia","1995",100.332
+"Iran","1995",103.471
+"Iraq","1995",100.985
+"Ireland","1995",98.658
+"Israel","1995",97.334
+"Italy","1995",93.642
+"Jamaica","1995",97.092
+"Japan","1995",96.168
+"Jordan","1995",109.54
+"Kazakhstan","1995",93.497
+"Kenya","1995",99.215
+"Kuwait","1995",150.861
+"Kyrgyzstan","1995",96.875
+"Laos","1995",99.847
+"LATIN AMERICA AND THE CARIBBEAN","1995",98.478
+"Latvia","1995",85.64
+"Least developed countries","1995",99.471
+"Lebanon","1995",97
+"Lesotho","1995",87.474
+"Less developed regions","1995",103.589
+"Less developed regions, excluding China","1995",102.386
+"Less developed regions, excluding least developed countries","1995",104.231
+"Liberia","1995",97.693
+"Libya","1995",110.162
+"Lithuania","1995",89.042
+"Luxembourg","1995",96.312
+"Madagascar","1995",99.805
+"Malawi","1995",97.606
+"Malaysia","1995",103.256
+"Maldives","1995",103.999
+"Mali","1995",98.048
+"Malta","1995",98.173
+"Martinique","1995",91.659
+"Mauritania","1995",101.277
+"Mauritius","1995",99.424
+"Mayotte","1995",102.615
+"Melanesia","1995",105.313
+"Mexico","1995",98.147
+"Micronesia","1995",104.435
+"Micronesia, Fed. Sts.","1995",104.548
+"Middle Africa","1995",97.74
+"Mongolia","1995",100.02
+"Montenegro","1995",100.562
+"More developed regions","1995",94.211
+"Morocco","1995",98.847
+"Mozambique","1995",91.251
+"Myanmar","1995",97.423
+"Namibia","1995",95.561
+"Nepal","1995",100.372
+"Netherlands","1995",97.839
+"Netherlands Antilles","1995",91.213
+"New Caledonia","1995",104.969
+"New Zealand","1995",97.473
+"Nicaragua","1995",99.239
+"Niger","1995",98.38
+"Nigeria","1995",99.26
+"Northern Africa","1995",101.301
+"NORTHERN AMERICA","1995",96.541
+"Northern Europe","1995",94.762
+"Norway","1995",97.814
+"West Bank and Gaza","1995",103.102
+"OCEANIA","1995",100.324
+"Oman","1995",143.706
+"Pakistan","1995",107.506
+"Panama","1995",102.077
+"Papua New Guinea","1995",105.488
+"Paraguay","1995",102.255
+"Peru","1995",100.769
+"Philippines","1995",101.68
+"Poland","1995",94.797
+"Polynesia","1995",106.333
+"Portugal","1995",92.974
+"Puerto Rico","1995",93.258
+"Qatar","1995",192.961
+"Korea, Rep.","1995",100.349
+"Moldova","1995",91.459
+"Reunion","1995",95.878
+"Romania","1995",96.253
+"Russia","1995",88.214
+"Rwanda","1995",92.06
+"Saint Lucia","1995",96.09
+"Saint Vincent and the Grenadines","1995",100.282
+"Samoa","1995",108.64
+"Sao Tome and Principe","1995",98.398
+"Saudi Arabia","1995",126.358
+"Senegal","1995",99.731
+"Serbia","1995",98.459
+"Sierra Leone","1995",94.031
+"Singapore","1995",101.413
+"Slovak Republic","1995",94.922
+"Slovenia","1995",94.644
+"Solomon Islands","1995",107.403
+"Somalia","1995",97.897
+"South Africa","1995",97.09
+"South America","1995",98.488
+"South-Central Asia","1995",106.598
+"South-Eastern Asia","1995",99.063
+"Southern Africa","1995",96.579
+"Southern Europe","1995",95.163
+"Spain","1995",95.967
+"Sri Lanka","1995",100.875
+"Sub- Saharan Africa","1995",98.564
+"Sudan","1995",101.147
+"Suriname","1995",102.66
+"Swaziland","1995",92.192
+"Sweden","1995",97.657
+"Switzerland","1995",95.402
+"Syria","1995",101.784
+"Tajikistan","1995",100.036
+"Macedonia, FYR","1995",100.215
+"Thailand","1995",97.97
+"Timor-Leste","1995",105.434
+"Togo","1995",97.764
+"Tonga","1995",102.449
+"Trinidad and Tobago","1995",96.386
+"Tunisia","1995",102.016
+"Turkey","1995",101.704
+"Turkmenistan","1995",97.518
+"Uganda","1995",99.102
+"Ukraine","1995",86.48
+"United Arab Emirates","1995",194.888
+"United Kingdom","1995",94.585
+"Tanzania","1995",98.165
+"United States","1995",96.381
+"Virgin Islands (U.S.)","1995",92.164
+"Uruguay","1995",93.954
+"Uzbekistan","1995",98.442
+"Vanuatu","1995",105.614
+"Venezuela","1995",101.577
+"Vietnam","1995",94.854
+"Western Africa","1995",99.837
+"Western Asia","1995",105.291
+"Western Europe","1995",94.898
+"Western Sahara","1995",109.415
+"WORLD","1995",101.588
+"Yemen, Rep.","1995",102.947
+"Zambia","1995",98.918
+"Zimbabwe","1995",97.551
+"Afghanistan","2000",107.508
+"AFRICA","2000",99.121
+"Albania","2000",98.835
+"Algeria","2000",101.839
+"Angola","2000",97.176
+"Argentina","2000",96.361
+"Armenia","2000",88.753
+"Aruba","2000",93.819
+"ASIA","2000",104.991
+"Australia","2000",98.422
+"Australia/New Zealand","2000",98.144
+"Austria","2000",93.666
+"Azerbaijan","2000",94.986
+"Bahamas","2000",96.823
+"Bahrain","2000",135.575
+"Bangladesh","2000",102.621
+"Barbados","2000",93.375
+"Belarus","2000",88.071
+"Belgium","2000",95.791
+"Belize","2000",101.802
+"Benin","2000",99.522
+"Bhutan","2000",102.871
+"Bolivia","2000",99.031
+"Bosnia and Herzegovina","2000",93.051
+"Botswana","2000",98.114
+"Brazil","2000",97.736
+"Brunei","2000",108.678
+"Bulgaria","2000",95.079
+"Burkina Faso","2000",97.921
+"Burundi","2000",94.235
+"Cambodia","2000",93.95
+"Cameroon","2000",99.223
+"Canada","2000",98.091
+"Cape Verde","2000",90.362
+"Caribbean","2000",98.403
+"Central African Rep.","2000",96.275
+"Central America","2000",98.051
+"Chad","2000",98.269
+"Channel Islands","2000",95.244
+"Chile","2000",97.858
+"China","2000",107.38
+"Hong Kong, China","2000",93.481
+"Macao, China","2000",92.319
+"Colombia","2000",97.411
+"Comoros","2000",100.531
+"Congo, Rep.","2000",99.21
+"Costa Rica","2000",103.432
+"Cote d'Ivoire","2000",106.129
+"Croatia","2000",92.948
+"Cuba","2000",100.249
+"Cyprus","2000",97.004
+"Czech Rep.","2000",94.78
+"Korea, Dem. Rep.","2000",96.526
+"Congo, Dem. Rep.","2000",97.743
+"Denmark","2000",97.721
+"Djibouti","2000",99.69
+"Dominican Rep.","2000",101.411
+"Eastern Africa","2000",97.857
+"Eastern Asia","2000",105.798
+"Eastern Europe","2000",89.528
+"Ecuador","2000",100.816
+"Egypt","2000",101.445
+"El Salvador","2000",92.389
+"Equatorial Guinea","2000",97.853
+"Eritrea","2000",95.808
+"Estonia","2000",85.681
+"Ethiopia","2000",98.722
+"EUROPE","2000",92.749
+"Fiji","2000",103.154
+"Finland","2000",95.368
+"France","2000",94.318
+"French Guiana","2000",106.613
+"French Polynesia","2000",106.571
+"Gabon","2000",98.565
+"Gambia","2000",98.18
+"Georgia","2000",89.91
+"Germany","2000",95.375
+"Ghana","2000",102.61
+"Greece","2000",97.939
+"Grenada","2000",98.288
+"Guadeloupe","2000",92.729
+"Guam","2000",104.528
+"Guatemala","2000",96.517
+"Guinea","2000",101.906
+"Guinea-Bissau","2000",98.022
+"Guyana","2000",94.249
+"Haiti","2000",97.657
+"Honduras","2000",99.775
+"Hungary","2000",90.76
+"Iceland","2000",100.283
+"India","2000",107.644
+"Indonesia","2000",100.069
+"Iran","2000",103.634
+"Iraq","2000",101.735
+"Ireland","2000",98.833
+"Israel","2000",97.521
+"Italy","2000",93.613
+"Jamaica","2000",97.191
+"Japan","2000",95.747
+"Jordan","2000",107.219
+"Kazakhstan","2000",92.128
+"Kenya","2000",99.282
+"Kuwait","2000",155.105
+"Kyrgyzstan","2000",97.254
+"Laos","2000",100.015
+"LATIN AMERICA AND THE CARIBBEAN","2000",98.174
+"Latvia","2000",84.983
+"Least developed countries","2000",99.429
+"Lebanon","2000",96.043
+"Lesotho","2000",87.887
+"Less developed regions","2000",103.496
+"Less developed regions, excluding China","2000",102.201
+"Less developed regions, excluding least developed countries","2000",104.161
+"Liberia","2000",98.033
+"Libya","2000",108.899
+"Lithuania","2000",87.962
+"Luxembourg","2000",97.004
+"Madagascar","2000",99.429
+"Malawi","2000",98.108
+"Malaysia","2000",103.491
+"Maldives","2000",103.149
+"Mali","2000",97.56
+"Malta","2000",98.28
+"Martinique","2000",89.864
+"Mauritania","2000",101.923
+"Mauritius","2000",98.993
+"Mayotte","2000",101.593
+"Melanesia","2000",104.116
+"Mexico","2000",98.082
+"Micronesia","2000",100.398
+"Micronesia, Fed. Sts.","2000",102.502
+"Middle Africa","2000",97.943
+"Mongolia","2000",98.259
+"Montenegro","2000",103.261
+"More developed regions","2000",94.266
+"Morocco","2000",97.855
+"Mozambique","2000",92.471
+"Myanmar","2000",97.416
+"Namibia","2000",95.954
+"Nepal","2000",99.628
+"Netherlands","2000",97.899
+"Netherlands Antilles","2000",89.422
+"New Caledonia","2000",103.158
+"New Zealand","2000",96.78
+"Nicaragua","2000",99.132
+"Niger","2000",99.809
+"Nigeria","2000",99.697
+"Northern Africa","2000",101.145
+"NORTHERN AMERICA","2000",96.929
+"Northern Europe","2000",95.033
+"Norway","2000",98.04
+"West Bank and Gaza","2000",103.269
+"OCEANIA","2000",99.64
+"Oman","2000",137.725
+"Pakistan","2000",106.811
+"Panama","2000",101.965
+"Papua New Guinea","2000",104.023
+"Paraguay","2000",102.423
+"Peru","2000",100.696
+"Philippines","2000",101.643
+"Poland","2000",94.16
+"Polynesia","2000",105.812
+"Portugal","2000",93.258
+"Puerto Rico","2000",92.855
+"Qatar","2000",185.053
+"Korea, Rep.","2000",99.197
+"Moldova","2000",91.451
+"Reunion","2000",95.654
+"Romania","2000",95.509
+"Russia","2000",87.728
+"Rwanda","2000",92.49
+"Saint Lucia","2000",95.975
+"Saint Vincent and the Grenadines","2000",101.425
+"Samoa","2000",108.463
+"Sao Tome and Principe","2000",98.354
+"Saudi Arabia","2000",124.033
+"Senegal","2000",99.054
+"Serbia","2000",98.185
+"Sierra Leone","2000",93.906
+"Singapore","2000",101.414
+"Slovak Republic","2000",94.469
+"Slovenia","2000",94.956
+"Solomon Islands","2000",107.352
+"Somalia","2000",98.008
+"South Africa","2000",96.692
+"South America","2000",98.196
+"South-Central Asia","2000",106.256
+"South-Eastern Asia","2000",99.039
+"Southern Africa","2000",96.297
+"Southern Europe","2000",95.118
+"Spain","2000",95.969
+"Sri Lanka","2000",99.361
+"Sub- Saharan Africa","2000",98.699
+"Sudan","2000",101.267
+"Suriname","2000",102.208
+"Swaziland","2000",93.023
+"Sweden","2000",97.705
+"Switzerland","2000",95.467
+"Syria","2000",101.898
+"Tajikistan","2000",100.452
+"Macedonia, FYR","2000",100.234
+"Thailand","2000",96.681
+"Timor-Leste","2000",104.342
+"Togo","2000",97.777
+"Tonga","2000",103.017
+"Trinidad and Tobago","2000",95.622
+"Tunisia","2000",101.899
+"Turkey","2000",101.453
+"Turkmenistan","2000",97.495
+"Uganda","2000",99.469
+"Ukraine","2000",86.262
+"United Arab Emirates","2000",207.702
+"United Kingdom","2000",94.958
+"Tanzania","2000",98.449
+"United States","2000",96.803
+"Virgin Islands (U.S.)","2000",91.528
+"Uruguay","2000",93.786
+"Uzbekistan","2000",98.851
+"Vanuatu","2000",104.938
+"Venezuela","2000",101.32
+"Vietnam","2000",96.015
+"Western Africa","2000",100.073
+"Western Asia","2000",105.409
+"Western Europe","2000",95.203
+"Western Sahara","2000",110.917
+"WORLD","2000",101.624
+"Yemen, Rep.","2000",102.717
+"Zambia","2000",98.868
+"Zimbabwe","2000",95.821
+"Afghanistan","2005",107.464
+"AFRICA","2005",99.301
+"Albania","2005",97.986
+"Algeria","2005",101.917
+"Angola","2005",97.225
+"Argentina","2005",96.246
+"Armenia","2005",87.628
+"Aruba","2005",92.31
+"ASIA","2005",104.956
+"Australia","2005",98.709
+"Australia/New Zealand","2005",98.463
+"Austria","2005",94.553
+"Azerbaijan","2005",94.968
+"Bahamas","2005",96.185
+"Bahrain","2005",135.251
+"Bangladesh","2005",102.438
+"Barbados","2005",93.814
+"Belarus","2005",87.368
+"Belgium","2005",95.832
+"Belize","2005",101.691
+"Benin","2005",101.123
+"Bhutan","2005",110.94
+"Bolivia","2005",99.295
+"Bosnia and Herzegovina","2005",92.731
+"Botswana","2005",99.007
+"Brazil","2005",97.334
+"Brunei","2005",107.503
+"Bulgaria","2005",94.259
+"Burkina Faso","2005",99.347
+"Burundi","2005",95.386
+"Cambodia","2005",94.969
+"Cameroon","2005",99.631
+"Canada","2005",98.119
+"Cape Verde","2005",91.09
+"Caribbean","2005",98.241
+"Central African Rep.","2005",96.356
+"Central America","2005",97.349
+"Chad","2005",98.576
+"Channel Islands","2005",95.745
+"Chile","2005",97.881
+"China","2005",107.731
+"Hong Kong, China","2005",91.69
+"Macao, China","2005",91.549
+"Colombia","2005",97.144
+"Comoros","2005",100.652
+"Congo, Rep.","2005",99.442
+"Costa Rica","2005",103.389
+"Cote d'Ivoire","2005",104.691
+"Croatia","2005",92.846
+"Cuba","2005",100.622
+"Cyprus","2005",94.803
+"Czech Rep.","2005",95.167
+"Korea, Dem. Rep.","2005",97.114
+"Congo, Dem. Rep.","2005",98.06
+"Denmark","2005",97.899
+"Djibouti","2005",99.802
+"Dominican Rep.","2005",101.183
+"Eastern Africa","2005",98.188
+"Eastern Asia","2005",106.048
+"Eastern Europe","2005",88.71
+"Ecuador","2005",100.576
+"Egypt","2005",101.275
+"El Salvador","2005",90.526
+"Equatorial Guinea","2005",98.153
+"Eritrea","2005",96.248
+"Estonia","2005",85.487
+"Ethiopia","2005",98.861
+"EUROPE","2005",92.717
+"Fiji","2005",103.027
+"Finland","2005",95.881
+"France","2005",94.507
+"French Guiana","2005",99.852
+"French Polynesia","2005",105.087
+"Gabon","2005",99.322
+"Gambia","2005",98.313
+"Georgia","2005",89.459
+"Germany","2005",95.71
+"Ghana","2005",102.693
+"Greece","2005",98.066
+"Grenada","2005",99.316
+"Guadeloupe","2005",92.984
+"Guam","2005",103.958
+"Guatemala","2005",95.291
+"Guinea","2005",101.97
+"Guinea-Bissau","2005",98.093
+"Guyana","2005",103.122
+"Haiti","2005",97.473
+"Honduras","2005",99.478
+"Hungary","2005",90.443
+"Iceland","2005",100.796
+"India","2005",107.246
+"Indonesia","2005",99.833
+"Iran","2005",103.891
+"Iraq","2005",102.388
+"Ireland","2005",99.945
+"Israel","2005",97.989
+"Italy","2005",94.28
+"Jamaica","2005",95.977
+"Japan","2005",95.308
+"Jordan","2005",105.95
+"Kazakhstan","2005",91.528
+"Kenya","2005",99.715
+"Kuwait","2005",151.993
+"Kyrgyzstan","2005",97.299
+"Laos","2005",99.185
+"LATIN AMERICA AND THE CARIBBEAN","2005",97.81
+"Latvia","2005",85.197
+"Least developed countries","2005",99.495
+"Lebanon","2005",96.072
+"Lesotho","2005",88.548
+"Less developed regions","2005",103.419
+"Less developed regions, excluding China","2005",102.058
+"Less developed regions, excluding least developed countries","2005",104.094
+"Liberia","2005",98.44
+"Libya","2005",107.791
+"Lithuania","2005",87.39
+"Luxembourg","2005",97.874
+"Madagascar","2005",99.226
+"Malawi","2005",98.368
+"Malaysia","2005",103.323
+"Maldives","2005",102.492
+"Mali","2005",97.471
+"Malta","2005",98.781
+"Martinique","2005",88.119
+"Mauritania","2005",102.562
+"Mauritius","2005",98.611
+"Mayotte","2005",100.83
+"Melanesia","2005",103.66
+"Mexico","2005",97.416
+"Micronesia","2005",98.528
+"Micronesia, Fed. Sts.","2005",103.207
+"Middle Africa","2005",98.223
+"Mongolia","2005",98.063
+"Montenegro","2005",97.008
+"More developed regions","2005",94.32
+"Morocco","2005",96.909
+"Mozambique","2005",93.665
+"Myanmar","2005",96.057
+"Namibia","2005",96.677
+"Nepal","2005",98.891
+"Netherlands","2005",97.871
+"Netherlands Antilles","2005",87.179
+"New Caledonia","2005",101.618
+"New Zealand","2005",97.253
+"Nicaragua","2005",98.66
+"Niger","2005",100.085
+"Nigeria","2005",100.166
+"Northern Africa","2005",100.923
+"NORTHERN AMERICA","2005",97.207
+"Northern Europe","2005",95.717
+"Norway","2005",98.384
+"West Bank and Gaza","2005",103.475
+"OCEANIA","2005",99.785
+"Oman","2005",131.478
+"Pakistan","2005",106.394
+"Panama","2005",101.788
+"Papua New Guinea","2005",103.52
+"Paraguay","2005",102.282
+"Peru","2005",100.579
+"Philippines","2005",101.57
+"Poland","2005",93.59
+"Polynesia","2005",105.163
+"Portugal","2005",93.737
+"Puerto Rico","2005",92.394
+"Qatar","2005",272.597
+"Korea, Rep.","2005",98.145
+"Moldova","2005",90.766
+"Reunion","2005",95.392
+"Romania","2005",94.988
+"Russia","2005",86.492
+"Rwanda","2005",93.354
+"Saint Lucia","2005",95.986
+"Saint Vincent and the Grenadines","2005",101.977
+"Samoa","2005",108.57
+"Sao Tome and Principe","2005",98.218
+"Saudi Arabia","2005",123.461
+"Senegal","2005",98.578
+"Serbia","2005",97.841
+"Sierra Leone","2005",94.444
+"Singapore","2005",101.312
+"Slovak Republic","2005",94.312
+"Slovenia","2005",95.249
+"Solomon Islands","2005",107.342
+"Somalia","2005",98.18
+"South Africa","2005",96.92
+"South America","2005",97.942
+"South-Central Asia","2005",105.912
+"South-Eastern Asia","2005",98.997
+"Southern Africa","2005",96.615
+"Southern Europe","2005",95.6
+"Spain","2005",96.857
+"Sri Lanka","2005",97.761
+"Sub- Saharan Africa","2005",98.993
+"Sudan","2005",101.35
+"Suriname","2005",100.814
+"Swaziland","2005",94.538
+"Sweden","2005",98.179
+"Switzerland","2005",95.804
+"Syria","2005",101.971
+"Tajikistan","2005",98.153
+"Macedonia, FYR","2005",99.923
+"Thailand","2005",96.944
+"Timor-Leste","2005",103.738
+"Togo","2005",97.883
+"Tonga","2005",102.825
+"Trinidad and Tobago","2005",94.951
+"Tunisia","2005",101.384
+"Turkey","2005",101.149
+"Turkmenistan","2005",97.387
+"Uganda","2005",100.017
+"Ukraine","2005",85.815
+"United Arab Emirates","2005",212.878
+"United Kingdom","2005",95.774
+"Tanzania","2005",99.005
+"United States","2005",97.108
+"Virgin Islands (U.S.)","2005",90.505
+"Uruguay","2005",93.289
+"Uzbekistan","2005",98.89
+"Vanuatu","2005",104.399
+"Venezuela","2005",101.042
+"Vietnam","2005",96.776
+"Western Africa","2005",100.344
+"Western Asia","2005",105.804
+"Western Europe","2005",95.466
+"Western Sahara","2005",112.855
+"WORLD","2005",101.655
+"Yemen, Rep.","2005",102.466
+"Zambia","2005",99.192
+"Zimbabwe","2005",94.145
+"Afghanistan","2010",107.412
+"AFRICA","2010",99.515
+"Albania","2010",97.338
+"Algeria","2010",101.948
+"Angola","2010",97.211
+"Argentina","2010",96.271
+"Armenia","2010",87.298
+"Aruba","2010",92.093
+"ASIA","2010",104.843
+"Australia","2010",98.873
+"Australia/New Zealand","2010",98.673
+"Austria","2010",95.314
+"Azerbaijan","2010",95.777
+"Bahamas","2010",95.683
+"Bahrain","2010",134.363
+"Bangladesh","2010",102.266
+"Barbados","2010",94.372
+"Belarus","2010",86.819
+"Belgium","2010",96.005
+"Belize","2010",101.599
+"Benin","2010",101.994
+"Bhutan","2010",111.423
+"Bolivia","2010",99.496
+"Bosnia and Herzegovina","2010",92.744
+"Botswana","2010",100.083
+"Brazil","2010",96.951
+"Brunei","2010",106.485
+"Bulgaria","2010",93.473
+"Burkina Faso","2010",99.863
+"Burundi","2010",96.277
+"Cambodia","2010",96.028
+"Cameroon","2010",100.029
+"Canada","2010",98.151
+"Cape Verde","2010",91.73
+"Caribbean","2010",98.113
+"Central African Rep.","2010",96.636
+"Central America","2010",96.921
+"Chad","2010",98.863
+"Channel Islands","2010",95.904
+"Chile","2010",97.841
+"China","2010",107.913
+"Hong Kong, China","2010",89.98
+"Macao, China","2010",91.102
+"Colombia","2010",96.896
+"Comoros","2010",100.733
+"Congo, Rep.","2010",99.713
+"Costa Rica","2010",103.141
+"Cote d'Ivoire","2010",103.591
+"Croatia","2010",93.014
+"Cuba","2010",100.496
+"Cyprus","2010",95.009
+"Czech Rep.","2010",96.591
+"Korea, Dem. Rep.","2010",97.637
+"Congo, Dem. Rep.","2010",98.28
+"Denmark","2010",98.381
+"Djibouti","2010",99.926
+"Dominican Rep.","2010",100.88
+"Eastern Africa","2010",98.584
+"Eastern Asia","2010",106.2
+"Eastern Europe","2010",88.255
+"Ecuador","2010",100.307
+"Egypt","2010",101.14
+"El Salvador","2010",89.087
+"Equatorial Guinea","2010",98.449
+"Eritrea","2010",96.919
+"Estonia","2010",85.617
+"Ethiopia","2010",99.032
+"EUROPE","2010",92.857
+"Fiji","2010",103.011
+"Finland","2010",96.181
+"France","2010",94.673
+"French Guiana","2010",99.59
+"French Polynesia","2010",104.39
+"Gabon","2010",99.896
+"Gambia","2010",98.406
+"Georgia","2010",88.687
+"Germany","2010",96.301
+"Ghana","2010",102.771
+"Greece","2010",98.35
+"Grenada","2010",100.223
+"Guadeloupe","2010",91.886
+"Guam","2010",103.469
+"Guatemala","2010",95.064
+"Guinea","2010",102.042
+"Guinea-Bissau","2010",98.185
+"Guyana","2010",105.565
+"Haiti","2010",97.648
+"Honduras","2010",99.917
+"Hungary","2010",90.368
+"Iceland","2010",105.86
+"India","2010",106.8
+"Indonesia","2010",99.663
+"Iran","2010",103.331
+"Iraq","2010",102.264
+"Ireland","2010",100.355
+"Israel","2010",98.479
+"Italy","2010",94.831
+"Jamaica","2010",95.864
+"Japan","2010",94.894
+"Jordan","2010",105.154
+"Kazakhstan","2010",90.795
+"Kenya","2010",99.997
+"Kuwait","2010",146.129
+"Kyrgyzstan","2010",97.427
+"Laos","2010",99.702
+"LATIN AMERICA AND THE CARIBBEAN","2010",97.524
+"Latvia","2010",85.586
+"Least developed countries","2010",99.635
+"Lebanon","2010",95.893
+"Lesotho","2010",89.646
+"Less developed regions","2010",103.302
+"Less developed regions, excluding China","2010",101.919
+"Less developed regions, excluding least developed countries","2010",103.966
+"Liberia","2010",98.836
+"Libya","2010",106.841
+"Lithuania","2010",88.109
+"Luxembourg","2010",98.553
+"Madagascar","2010",99.158
+"Malawi","2010",98.89
+"Malaysia","2010",103.094
+"Maldives","2010",101.908
+"Mali","2010",97.589
+"Malta","2010",99.327
+"Martinique","2010",88.381
+"Mauritania","2010",102.905
+"Mauritius","2010",98.101
+"Mayotte","2010",100.206
+"Melanesia","2010",103.454
+"Mexico","2010",96.952
+"Micronesia","2010",98.117
+"Micronesia, Fed. Sts.","2010",104.031
+"Middle Africa","2010",98.445
+"Mongolia","2010",97.802
+"Montenegro","2010",96.8
+"More developed regions","2010",94.497
+"Morocco","2010",96.44
+"Mozambique","2010",94.943
+"Myanmar","2010",95.427
+"Namibia","2010",97.38
+"Nepal","2010",98.642
+"Netherlands","2010",98.385
+"Netherlands Antilles","2010",86.431
+"New Caledonia","2010",100.481
+"New Zealand","2010",97.676
+"Nicaragua","2010",97.961
+"Niger","2010",100.375
+"Nigeria","2010",100.542
+"Northern Africa","2010",100.798
+"NORTHERN AMERICA","2010",97.547
+"Northern Europe","2010",96.363
+"Norway","2010",98.97
+"West Bank and Gaza","2010",103.64
+"OCEANIA","2010",99.926
+"Oman","2010",128.97
+"Pakistan","2010",106.11
+"Panama","2010",101.638
+"Papua New Guinea","2010",103.306
+"Paraguay","2010",101.874
+"Peru","2010",100.455
+"Philippines","2010",101.468
+"Poland","2010",93.085
+"Polynesia","2010",104.749
+"Portugal","2010",93.902
+"Puerto Rico","2010",92.079
+"Qatar","2010",306.88
+"Korea, Rep.","2010",98.086
+"Moldova","2010",90.432
+"Reunion","2010",95.099
+"Romania","2010",94.522
+"Russia","2010",85.801
+"Rwanda","2010",94.043
+"Saint Lucia","2010",95.876
+"Saint Vincent and the Grenadines","2010",101.955
+"Samoa","2010",108.797
+"Sao Tome and Principe","2010",98.118
+"Saudi Arabia","2010",120.722
+"Senegal","2010",98.278
+"Serbia","2010",97.959
+"Sierra Leone","2010",95.061
+"Singapore","2010",100.896
+"Slovak Republic","2010",94.195
+"Slovenia","2010",95.542
+"Solomon Islands","2010",107.325
+"Somalia","2010",98.421
+"South Africa","2010",97.315
+"South America","2010",97.697
+"South-Central Asia","2010",105.526
+"South-Eastern Asia","2010",99.031
+"Southern Africa","2010",97.095
+"Southern Europe","2010",96.019
+"Spain","2010",97.403
+"Sri Lanka","2010",96.86
+"Sub- Saharan Africa","2010",99.296
+"Sudan","2010",101.437
+"Suriname","2010",100.422
+"Swaziland","2010",95.93
+"Sweden","2010",98.591
+"Switzerland","2010",95.366
+"Syria","2010",101.986
+"Tajikistan","2010",97.459
+"Macedonia, FYR","2010",99.725
+"Thailand","2010",96.714
+"Timor-Leste","2010",103.678
+"Togo","2010",98.072
+"Tonga","2010",102.561
+"Trinidad and Tobago","2010",94.415
+"Tunisia","2010",101.115
+"Turkey","2010",100.87
+"Turkmenistan","2010",97.092
+"Uganda","2010",100.401
+"Ukraine","2010",85.526
+"United Arab Emirates","2010",203.63
+"United Kingdom","2010",96.434
+"Tanzania","2010",99.521
+"United States","2010",97.481
+"Virgin Islands (U.S.)","2010",89.954
+"Uruguay","2010",93.288
+"Uzbekistan","2010",98.829
+"Vanuatu","2010",104.006
+"Venezuela","2010",100.745
+"Vietnam","2010",97.763
+"Western Africa","2010",100.55
+"Western Asia","2010",105.731
+"Western Europe","2010",95.846
+"Western Sahara","2010",112.112
+"WORLD","2010",101.667
+"Yemen, Rep.","2010",102.232
+"Zambia","2010",99.617
+"Zimbabwe","2010",93.737
+"Afghanistan","2015",107.353
+"AFRICA","2015",99.702
+"Albania","2015",96.897
+"Algeria","2015",101.94
+"Angola","2015",97.2
+"Argentina","2015",96.319
+"Armenia","2015",87.621
+"Aruba","2015",91.898
+"ASIA","2015",104.701
+"Australia","2015",98.974
+"Australia/New Zealand","2015",98.813
+"Austria","2015",95.94
+"Azerbaijan","2015",96.522
+"Bahamas","2015",95.166
+"Bahrain","2015",132.507
+"Bangladesh","2015",102.114
+"Barbados","2015",94.966
+"Belarus","2015",86.528
+"Belgium","2015",96.012
+"Belize","2015",101.502
+"Benin","2015",102.268
+"Bhutan","2015",111.686
+"Bolivia","2015",99.647
+"Bosnia and Herzegovina","2015",92.698
+"Botswana","2015",101.306
+"Brazil","2015",96.558
+"Brunei","2015",105.499
+"Bulgaria","2015",93.036
+"Burkina Faso","2015",100.242
+"Burundi","2015",96.721
+"Cambodia","2015",96.951
+"Cameroon","2015",100.303
+"Canada","2015",98.983
+"Cape Verde","2015",92.373
+"Caribbean","2015",97.947
+"Central African Rep.","2015",96.955
+"Central America","2015",96.811
+"Chad","2015",99.089
+"Channel Islands","2015",95.833
+"Chile","2015",97.736
+"China","2015",107.964
+"Hong Kong, China","2015",89.371
+"Macao, China","2015",90.548
+"Colombia","2015",96.676
+"Comoros","2015",100.743
+"Congo, Rep.","2015",99.932
+"Costa Rica","2015",102.882
+"Cote d'Ivoire","2015",102.735
+"Croatia","2015",93.291
+"Cuba","2015",100.272
+"Cyprus","2015",95.271
+"Czech Rep.","2015",96.887
+"Korea, Dem. Rep.","2015",98.046
+"Congo, Dem. Rep.","2015",98.419
+"Denmark","2015",98.659
+"Djibouti","2015",100.054
+"Dominican Rep.","2015",100.51
+"Eastern Africa","2015",99.003
+"Eastern Asia","2015",106.249
+"Eastern Europe","2015",87.989
+"Ecuador","2015",100.022
+"Egypt","2015",100.845
+"El Salvador","2015",88.073
+"Equatorial Guinea","2015",98.657
+"Eritrea","2015",97.491
+"Estonia","2015",86.078
+"Ethiopia","2015",99.171
+"EUROPE","2015",93.06
+"Fiji","2015",102.983
+"Finland","2015",96.452
+"France","2015",94.957
+"French Guiana","2015",99.372
+"French Polynesia","2015",103.734
+"Gabon","2015",100.286
+"Gambia","2015",98.458
+"Georgia","2015",88.588
+"Germany","2015",96.63
+"Ghana","2015",102.822
+"Greece","2015",98.344
+"Grenada","2015",100.996
+"Guadeloupe","2015",90.935
+"Guam","2015",102.999
+"Guatemala","2015",95.289
+"Guinea","2015",102.124
+"Guinea-Bissau","2015",98.305
+"Guyana","2015",104.821
+"Haiti","2015",97.743
+"Honduras","2015",100.126
+"Hungary","2015",90.5
+"Iceland","2015",108.018
+"India","2015",106.39
+"Indonesia","2015",99.501
+"Iran","2015",102.872
+"Iraq","2015",102.648
+"Ireland","2015",100.564
+"Israel","2015",99.03
+"Italy","2015",95.204
+"Jamaica","2015",95.794
+"Japan","2015",94.472
+"Jordan","2015",104.785
+"Kazakhstan","2015",90.355
+"Kenya","2015",100.283
+"Kuwait","2015",142.986
+"Kyrgyzstan","2015",97.534
+"Laos","2015",100.092
+"LATIN AMERICA AND THE CARIBBEAN","2015",97.315
+"Latvia","2015",86.229
+"Least developed countries","2015",99.777
+"Lebanon","2015",95.8
+"Lesotho","2015",91.013
+"Less developed regions","2015",103.173
+"Less developed regions, excluding China","2015",101.8
+"Less developed regions, excluding least developed countries","2015",103.823
+"Liberia","2015",99.161
+"Libya","2015",105.995
+"Lithuania","2015",88.517
+"Luxembourg","2015",99.117
+"Madagascar","2015",99.174
+"Malawi","2015",99.434
+"Malaysia","2015",102.781
+"Maldives","2015",101.42
+"Mali","2015",97.859
+"Malta","2015",99.773
+"Martinique","2015",88.596
+"Mauritania","2015",102.955
+"Mauritius","2015",97.445
+"Mayotte","2015",99.668
+"Melanesia","2015",103.317
+"Mexico","2015",96.826
+"Micronesia","2015",97.846
+"Micronesia, Fed. Sts.","2015",104.656
+"Middle Africa","2015",98.596
+"Mongolia","2015",97.65
+"Montenegro","2015",96.649
+"More developed regions","2015",94.804
+"Morocco","2015",96.157
+"Mozambique","2015",96.22
+"Myanmar","2015",95.312
+"Namibia","2015",98.173
+"Nepal","2015",98.41
+"Netherlands","2015",98.717
+"Netherlands Antilles","2015",86.053
+"New Caledonia","2015",99.706
+"New Zealand","2015",98.007
+"Nicaragua","2015",97.805
+"Niger","2015",100.639
+"Nigeria","2015",100.834
+"Northern Africa","2015",100.63
+"NORTHERN AMERICA","2015",98.199
+"Northern Europe","2015",96.993
+"Norway","2015",99.442
+"West Bank and Gaza","2015",103.738
+"OCEANIA","2015",100.025
+"Oman","2015",126.095
+"Pakistan","2015",105.998
+"Panama","2015",101.448
+"Papua New Guinea","2015",103.168
+"Paraguay","2015",101.5
+"Peru","2015",100.308
+"Philippines","2015",101.563
+"Poland","2015",92.696
+"Polynesia","2015",104.38
+"Portugal","2015",93.946
+"Puerto Rico","2015",91.858
+"Qatar","2015",285.457
+"Korea, Rep.","2015",97.96
+"Moldova","2015",90.335
+"Reunion","2015",94.813
+"Romania","2015",94.212
+"Russia","2015",85.4
+"Rwanda","2015",94.56
+"Saint Lucia","2015",95.732
+"Saint Vincent and the Grenadines","2015",101.793
+"Samoa","2015",108.953
+"Sao Tome and Principe","2015",98.17
+"Saudi Arabia","2015",118.362
+"Senegal","2015",98.054
+"Serbia","2015",98.128
+"Sierra Leone","2015",95.621
+"Singapore","2015",100.418
+"Slovak Republic","2015",94.153
+"Slovenia","2015",95.904
+"Solomon Islands","2015",107.28
+"Somalia","2015",98.618
+"South Africa","2015",97.553
+"South America","2015",97.447
+"South-Central Asia","2015",105.195
+"South-Eastern Asia","2015",99.043
+"Southern Africa","2015",97.458
+"Southern Europe","2015",96.518
+"Spain","2015",98.487
+"Sri Lanka","2015",96.062
+"Sub- Saharan Africa","2015",99.57
+"Sudan","2015",101.499
+"Suriname","2015",100.074
+"Swaziland","2015",97.389
+"Sweden","2015",98.953
+"Switzerland","2015",94.909
+"Syria","2015",103.016
+"Tajikistan","2015",97.39
+"Macedonia, FYR","2015",99.637
+"Thailand","2015",96.406
+"Timor-Leste","2015",103.619
+"Togo","2015",98.269
+"Tonga","2015",102.465
+"Trinidad and Tobago","2015",93.934
+"Tunisia","2015",100.872
+"Turkey","2015",100.63
+"Turkmenistan","2015",96.888
+"Uganda","2015",100.604
+"Ukraine","2015",85.476
+"United Arab Emirates","2015",198.253
+"United Kingdom","2015",97.155
+"Tanzania","2015",99.923
+"United States","2015",98.114
+"Virgin Islands (U.S.)","2015",89.375
+"Uruguay","2015",93.545
+"Uzbekistan","2015",98.737
+"Vanuatu","2015",103.71
+"Venezuela","2015",100.438
+"Vietnam","2015",98.25
+"Western Africa","2015",100.713
+"Western Asia","2015",105.57
+"Western Europe","2015",96.116
+"Western Sahara","2015",111.291
+"WORLD","2015",101.684
+"Yemen, Rep.","2015",102.034
+"Zambia","2015",99.946
+"Zimbabwe","2015",95.722
+"Afghanistan","2020",107.3
+"AFRICA","2020",99.845
+"Albania","2020",96.473
+"Algeria","2020",101.875
+"Angola","2020",97.195
+"Argentina","2020",96.337
+"Armenia","2020",88.078
+"Aruba","2020",91.735
+"ASIA","2020",104.495
+"Australia","2020",99.022
+"Australia/New Zealand","2020",98.893
+"Austria","2020",96.411
+"Azerbaijan","2020",97.004
+"Bahamas","2020",94.597
+"Bahrain","2020",130.847
+"Bangladesh","2020",101.913
+"Barbados","2020",95.373
+"Belarus","2020",86.382
+"Belgium","2020",96.036
+"Belize","2020",101.381
+"Benin","2020",102.429
+"Bhutan","2020",110.251
+"Bolivia","2020",99.751
+"Bosnia and Herzegovina","2020",92.671
+"Botswana","2020",102.471
+"Brazil","2020",96.21
+"Brunei","2020",104.51
+"Bulgaria","2020",92.802
+"Burkina Faso","2020",100.503
+"Burundi","2020",96.985
+"Cambodia","2020",97.713
+"Cameroon","2020",100.455
+"Canada","2020",99.739
+"Cape Verde","2020",92.949
+"Caribbean","2020",97.793
+"Central African Rep.","2020",97.253
+"Central America","2020",96.741
+"Chad","2020",99.269
+"Channel Islands","2020",95.617
+"Chile","2020",97.553
+"China","2020",107.839
+"Hong Kong, China","2020",88.743
+"Macao, China","2020",89.903
+"Colombia","2020",96.475
+"Comoros","2020",100.684
+"Congo, Rep.","2020",100.059
+"Costa Rica","2020",102.591
+"Cote d'Ivoire","2020",102.095
+"Croatia","2020",93.585
+"Cuba","2020",100.1
+"Cyprus","2020",95.551
+"Czech Rep.","2020",97.086
+"Korea, Dem. Rep.","2020",98.334
+"Congo, Dem. Rep.","2020",98.487
+"Denmark","2020",98.764
+"Djibouti","2020",100.184
+"Dominican Rep.","2020",100.115
+"Eastern Africa","2020",99.319
+"Eastern Asia","2020",106.138
+"Eastern Europe","2020",87.89
+"Ecuador","2020",99.726
+"Egypt","2020",100.521
+"El Salvador","2020",87.436
+"Equatorial Guinea","2020",98.799
+"Eritrea","2020",97.985
+"Estonia","2020",86.765
+"Ethiopia","2020",99.271
+"EUROPE","2020",93.242
+"Fiji","2020",102.96
+"Finland","2020",96.6
+"France","2020",95.279
+"French Guiana","2020",99.149
+"French Polynesia","2020",103.1
+"Gabon","2020",100.668
+"Gambia","2020",98.473
+"Georgia","2020",88.761
+"Germany","2020",96.753
+"Ghana","2020",102.842
+"Greece","2020",98.484
+"Grenada","2020",101.616
+"Guadeloupe","2020",90.18
+"Guam","2020",102.56
+"Guatemala","2020",95.445
+"Guinea","2020",102.199
+"Guinea-Bissau","2020",98.411
+"Guyana","2020",104.035
+"Haiti","2020",97.814
+"Honduras","2020",100.278
+"Hungary","2020",90.747
+"Iceland","2020",108.863
+"India","2020",105.982
+"Indonesia","2020",99.397
+"Iran","2020",102.421
+"Iraq","2020",102.865
+"Ireland","2020",100.635
+"Israel","2020",99.552
+"Italy","2020",95.47
+"Jamaica","2020",95.708
+"Japan","2020",93.994
+"Jordan","2020",104.367
+"Kazakhstan","2020",90.15
+"Kenya","2020",100.431
+"Kuwait","2020",140.33
+"Kyrgyzstan","2020",97.556
+"Laos","2020",100.37
+"LATIN AMERICA AND THE CARIBBEAN","2020",97.128
+"Latvia","2020",87.011
+"Least developed countries","2020",99.868
+"Lebanon","2020",95.743
+"Lesotho","2020",92.389
+"Less developed regions","2020",102.999
+"Less developed regions, excluding China","2020",101.671
+"Less developed regions, excluding least developed countries","2020",103.631
+"Liberia","2020",99.411
+"Libya","2020",105.212
+"Lithuania","2020",88.904
+"Luxembourg","2020",99.56
+"Madagascar","2020",99.172
+"Malawi","2020",99.934
+"Malaysia","2020",102.443
+"Maldives","2020",101.038
+"Mali","2020",98.158
+"Malta","2020",100.083
+"Martinique","2020",88.814
+"Mauritania","2020",102.91
+"Mauritius","2020",96.794
+"Mayotte","2020",99.196
+"Melanesia","2020",103.227
+"Mexico","2020",96.755
+"Micronesia","2020",97.556
+"Micronesia, Fed. Sts.","2020",105.112
+"Middle Africa","2020",98.682
+"Mongolia","2020",97.564
+"Montenegro","2020",96.92
+"More developed regions","2020",95.063
+"Morocco","2020",95.914
+"Mozambique","2020",97.372
+"Myanmar","2020",95.22
+"Namibia","2020",99.026
+"Nepal","2020",98.018
+"Netherlands","2020",98.864
+"Netherlands Antilles","2020",86.076
+"New Caledonia","2020",99.154
+"New Zealand","2020",98.244
+"Nicaragua","2020",97.607
+"Niger","2020",100.866
+"Nigeria","2020",101.064
+"Northern Africa","2020",100.441
+"NORTHERN AMERICA","2020",98.714
+"Northern Europe","2020",97.349
+"Norway","2020",99.701
+"West Bank and Gaza","2020",103.783
+"OCEANIA","2020",100.085
+"Oman","2020",123.523
+"Pakistan","2020",105.883
+"Panama","2020",101.219
+"Papua New Guinea","2020",103.081
+"Paraguay","2020",101.107
+"Peru","2020",100.14
+"Philippines","2020",101.573
+"Poland","2020",92.486
+"Polynesia","2020",104.037
+"Portugal","2020",93.974
+"Puerto Rico","2020",91.726
+"Qatar","2020",283.804
+"Korea, Rep.","2020",97.734
+"Moldova","2020",90.282
+"Reunion","2020",94.523
+"Romania","2020",94.028
+"Russia","2020",85.176
+"Rwanda","2020",94.909
+"Saint Lucia","2020",95.568
+"Saint Vincent and the Grenadines","2020",101.45
+"Samoa","2020",109.159
+"Sao Tome and Principe","2020",98.386
+"Saudi Arabia","2020",116.291
+"Senegal","2020",97.864
+"Serbia","2020",98.296
+"Sierra Leone","2020",96.117
+"Singapore","2020",99.889
+"Slovak Republic","2020",94.1
+"Slovenia","2020",96.252
+"Solomon Islands","2020",107.217
+"Somalia","2020",98.77
+"South Africa","2020",97.993
+"South America","2020",97.212
+"South-Central Asia","2020",104.858
+"South-Eastern Asia","2020",99.049
+"Southern Africa","2020",98
+"Southern Europe","2020",96.879
+"Spain","2020",99.18
+"Sri Lanka","2020",95.308
+"Sub- Saharan Africa","2020",99.79
+"Sudan","2020",101.532
+"Suriname","2020",99.697
+"Swaziland","2020",98.68
+"Sweden","2020",99.186
+"Switzerland","2020",94.417
+"Syria","2020",103.651
+"Tajikistan","2020",97.311
+"Macedonia, FYR","2020",99.615
+"Thailand","2020",96.147
+"Timor-Leste","2020",103.612
+"Togo","2020",98.442
+"Tonga","2020",102.389
+"Trinidad and Tobago","2020",93.446
+"Tunisia","2020",100.663
+"Turkey","2020",100.358
+"Turkmenistan","2020",96.651
+"Uganda","2020",100.663
+"Ukraine","2020",85.659
+"United Arab Emirates","2020",196.416
+"United Kingdom","2020",97.518
+"Tanzania","2020",100.238
+"United States","2020",98.604
+"Virgin Islands (U.S.)","2020",88.804
+"Uruguay","2020",93.928
+"Uzbekistan","2020",98.613
+"Vanuatu","2020",103.472
+"Venezuela","2020",100.11
+"Vietnam","2020",98.626
+"Western Africa","2020",100.843
+"Western Asia","2020",105.404
+"Western Europe","2020",96.289
+"Western Sahara","2020",110.432
+"WORLD","2020",101.643
+"Yemen, Rep.","2020",101.885
+"Zambia","2020",100.249
+"Zimbabwe","2020",97.341
+"Afghanistan","2025",107.253
+"AFRICA","2025",99.947
+"Albania","2025",96.084
+"Algeria","2025",101.776
+"Angola","2025",97.182
+"Argentina","2025",96.289
+"Armenia","2025",88.421
+"Aruba","2025",91.614
+"ASIA","2025",104.229
+"Australia","2025",99.016
+"Australia/New Zealand","2025",98.919
+"Austria","2025",96.725
+"Azerbaijan","2025",97.224
+"Bahamas","2025",93.973
+"Bahrain","2025",129.233
+"Bangladesh","2025",101.672
+"Barbados","2025",95.562
+"Belarus","2025",86.233
+"Belgium","2025",96.052
+"Belize","2025",101.229
+"Benin","2025",102.499
+"Bhutan","2025",108.938
+"Bolivia","2025",99.808
+"Bosnia and Herzegovina","2025",92.685
+"Botswana","2025",103.476
+"Brazil","2025",95.847
+"Brunei","2025",103.461
+"Bulgaria","2025",92.675
+"Burkina Faso","2025",100.659
+"Burundi","2025",97.094
+"Cambodia","2025",98.297
+"Cameroon","2025",100.536
+"Canada","2025",100.444
+"Cape Verde","2025",93.411
+"Caribbean","2025",97.605
+"Central African Rep.","2025",97.511
+"Central America","2025",96.526
+"Chad","2025",99.432
+"Channel Islands","2025",95.314
+"Chile","2025",97.292
+"China","2025",107.602
+"Hong Kong, China","2025",88.07
+"Macao, China","2025",89.087
+"Colombia","2025",96.281
+"Comoros","2025",100.571
+"Congo, Rep.","2025",100.104
+"Costa Rica","2025",102.256
+"Cote d'Ivoire","2025",101.587
+"Croatia","2025",93.838
+"Cuba","2025",99.75
+"Cyprus","2025",95.806
+"Czech Rep.","2025",97.21
+"Korea, Dem. Rep.","2025",98.415
+"Congo, Dem. Rep.","2025",98.496
+"Denmark","2025",98.755
+"Djibouti","2025",100.258
+"Dominican Rep.","2025",99.707
+"Eastern Africa","2025",99.556
+"Eastern Asia","2025",105.922
+"Eastern Europe","2025",87.823
+"Ecuador","2025",99.415
+"Egypt","2025",100.154
+"El Salvador","2025",87.191
+"Equatorial Guinea","2025",98.904
+"Eritrea","2025",98.356
+"Estonia","2025",87.503
+"Ethiopia","2025",99.341
+"EUROPE","2025",93.391
+"Fiji","2025",102.89
+"Finland","2025",96.555
+"France","2025",95.614
+"French Guiana","2025",98.902
+"French Polynesia","2025",102.476
+"Gabon","2025",101.077
+"Gambia","2025",98.455
+"Georgia","2025",89.047
+"Germany","2025",96.73
+"Ghana","2025",102.837
+"Greece","2025",98.689
+"Grenada","2025",102.086
+"Guadeloupe","2025",89.561
+"Guam","2025",102.148
+"Guatemala","2025",95.54
+"Guinea","2025",102.251
+"Guinea-Bissau","2025",98.489
+"Guyana","2025",103.244
+"Haiti","2025",97.901
+"Honduras","2025",100.368
+"Hungary","2025",91.038
+"Iceland","2025",109.047
+"India","2025",105.565
+"Indonesia","2025",99.221
+"Iran","2025",101.976
+"Iraq","2025",102.935
+"Ireland","2025",100.577
+"Israel","2025",99.962
+"Italy","2025",95.712
+"Jamaica","2025",95.555
+"Japan","2025",93.534
+"Jordan","2025",103.96
+"Kazakhstan","2025",90.052
+"Kenya","2025",100.54
+"Kuwait","2025",137.903
+"Kyrgyzstan","2025",97.47
+"Laos","2025",100.547
+"LATIN AMERICA AND THE CARIBBEAN","2025",96.889
+"Latvia","2025",87.792
+"Least developed countries","2025",99.92
+"Lebanon","2025",95.738
+"Lesotho","2025",93.604
+"Less developed regions","2025",102.773
+"Less developed regions, excluding China","2025",101.507
+"Less developed regions, excluding least developed countries","2025",103.38
+"Liberia","2025",99.581
+"Libya","2025",104.451
+"Lithuania","2025",89.272
+"Luxembourg","2025",99.881
+"Madagascar","2025",99.135
+"Malawi","2025",100.45
+"Malaysia","2025",102.074
+"Maldives","2025",100.733
+"Mali","2025",98.448
+"Malta","2025",100.224
+"Martinique","2025",89.04
+"Mauritania","2025",102.773
+"Mauritius","2025",96.172
+"Mayotte","2025",98.773
+"Melanesia","2025",103.15
+"Mexico","2025",96.469
+"Micronesia","2025",97.213
+"Micronesia, Fed. Sts.","2025",105.422
+"Middle Africa","2025",98.719
+"Mongolia","2025",97.505
+"Montenegro","2025",97.203
+"More developed regions","2025",95.279
+"Morocco","2025",95.657
+"Mozambique","2025",98.364
+"Myanmar","2025",95.086
+"Namibia","2025",99.792
+"Nepal","2025",97.671
+"Netherlands","2025",98.863
+"Netherlands Antilles","2025",85.975
+"New Caledonia","2025",98.62
+"New Zealand","2025",98.423
+"Nicaragua","2025",97.404
+"Niger","2025",101.053
+"Nigeria","2025",101.247
+"Northern Africa","2025",100.219
+"NORTHERN AMERICA","2025",99.119
+"Northern Europe","2025",97.6
+"Norway","2025",99.71
+"West Bank and Gaza","2025",103.778
+"OCEANIA","2025",100.106
+"Oman","2025",121.223
+"Pakistan","2025",105.772
+"Panama","2025",100.958
+"Papua New Guinea","2025",103.017
+"Paraguay","2025",100.724
+"Peru","2025",99.979
+"Philippines","2025",101.588
+"Poland","2025",92.224
+"Polynesia","2025",103.724
+"Portugal","2025",94.031
+"Puerto Rico","2025",91.714
+"Qatar","2025",277.989
+"Korea, Rep.","2025",97.403
+"Moldova","2025",90.138
+"Reunion","2025",94.201
+"Romania","2025",93.908
+"Russia","2025",84.996
+"Rwanda","2025",95.127
+"Saint Lucia","2025",95.382
+"Saint Vincent and the Grenadines","2025",100.96
+"Samoa","2025",109.359
+"Sao Tome and Principe","2025",98.584
+"Saudi Arabia","2025",114.422
+"Senegal","2025",97.691
+"Serbia","2025",98.417
+"Sierra Leone","2025",96.569
+"Singapore","2025",99.309
+"Slovak Republic","2025",93.965
+"Slovenia","2025",96.48
+"Solomon Islands","2025",107.135
+"Somalia","2025",98.89
+"South Africa","2025",98.594
+"South America","2025",96.959
+"South-Central Asia","2025",104.517
+"South-Eastern Asia","2025",99.002
+"Southern Africa","2025",98.669
+"Southern Europe","2025",97.159
+"Spain","2025",99.639
+"Sri Lanka","2025",94.586
+"Sub- Saharan Africa","2025",99.962
+"Sudan","2025",101.539
+"Suriname","2025",99.348
+"Swaziland","2025",99.968
+"Sweden","2025",99.249
+"Switzerland","2025",93.879
+"Syria","2025",103.447
+"Tajikistan","2025",97.186
+"Macedonia, FYR","2025",99.582
+"Thailand","2025",95.87
+"Timor-Leste","2025",103.564
+"Togo","2025",98.593
+"Tonga","2025",102.408
+"Trinidad and Tobago","2025",92.922
+"Tunisia","2025",100.469
+"Turkey","2025",100.035
+"Turkmenistan","2025",96.363
+"Uganda","2025",100.614
+"Ukraine","2025",85.94
+"United Arab Emirates","2025",194.821
+"United Kingdom","2025",97.805
+"Tanzania","2025",100.502
+"United States","2025",98.976
+"Virgin Islands (U.S.)","2025",88.298
+"Uruguay","2025",94.286
+"Uzbekistan","2025",98.439
+"Vanuatu","2025",103.28
+"Venezuela","2025",99.767
+"Vietnam","2025",98.909
+"Western Africa","2025",100.941
+"Western Asia","2025",105.104
+"Western Europe","2025",96.382
+"Western Sahara","2025",108.899
+"WORLD","2025",101.54
+"Yemen, Rep.","2025",101.731
+"Zambia","2025",100.589
+"Zimbabwe","2025",98.4
+"Afghanistan","2030",107.216
+"AFRICA","2030",99.997
+"Albania","2030",95.698
+"Algeria","2030",101.579
+"Angola","2030",97.155
+"Argentina","2030",96.161
+"Armenia","2030",88.729
+"Aruba","2030",91.496
+"ASIA","2030",103.916
+"Australia","2030",98.947
+"Australia/New Zealand","2030",98.879
+"Austria","2030",96.881
+"Azerbaijan","2030",97.273
+"Bahamas","2030",93.39
+"Bahrain","2030",127.515
+"Bangladesh","2030",101.38
+"Barbados","2030",95.487
+"Belarus","2030",86.037
+"Belgium","2030",95.946
+"Belize","2030",101.035
+"Benin","2030",102.488
+"Bhutan","2030",107.7
+"Bolivia","2030",99.819
+"Bosnia and Herzegovina","2030",92.697
+"Botswana","2030",104.211
+"Brazil","2030",95.458
+"Brunei","2030",102.334
+"Bulgaria","2030",92.586
+"Burkina Faso","2030",100.738
+"Burundi","2030",97.098
+"Cambodia","2030",98.719
+"Cameroon","2030",100.554
+"Canada","2030",100.994
+"Cape Verde","2030",93.719
+"Caribbean","2030",97.418
+"Central African Rep.","2030",97.738
+"Central America","2030",96.285
+"Chad","2030",99.568
+"Channel Islands","2030",94.996
+"Chile","2030",96.952
+"China","2030",107.283
+"Hong Kong, China","2030",87.321
+"Macao, China","2030",88.045
+"Colombia","2030",96.093
+"Comoros","2030",100.426
+"Congo, Rep.","2030",100.139
+"Costa Rica","2030",101.866
+"Cote d'Ivoire","2030",101.169
+"Croatia","2030",94.009
+"Cuba","2030",99.429
+"Cyprus","2030",96.013
+"Czech Rep.","2030",97.288
+"Korea, Dem. Rep.","2030",98.193
+"Congo, Dem. Rep.","2030",98.462
+"Denmark","2030",98.712
+"Djibouti","2030",100.317
+"Dominican Rep.","2030",99.292
+"Eastern Africa","2030",99.722
+"Eastern Asia","2030",105.623
+"Eastern Europe","2030",87.769
+"Ecuador","2030",99.084
+"Egypt","2030",99.757
+"El Salvador","2030",87.359
+"Equatorial Guinea","2030",99.001
+"Eritrea","2030",98.619
+"Estonia","2030",88.188
+"Ethiopia","2030",99.369
+"EUROPE","2030",93.489
+"Fiji","2030",102.849
+"Finland","2030",96.381
+"France","2030",95.853
+"French Guiana","2030",98.659
+"French Polynesia","2030",101.868
+"Gabon","2030",101.393
+"Gambia","2030",98.419
+"Georgia","2030",89.262
+"Germany","2030",96.6
+"Ghana","2030",102.792
+"Greece","2030",98.917
+"Grenada","2030",102.393
+"Guadeloupe","2030",88.986
+"Guam","2030",101.751
+"Guatemala","2030",95.582
+"Guinea","2030",102.268
+"Guinea-Bissau","2030",98.549
+"Guyana","2030",102.48
+"Haiti","2030",97.954
+"Honduras","2030",100.406
+"Hungary","2030",91.327
+"Iceland","2030",108.711
+"India","2030",105.134
+"Indonesia","2030",98.994
+"Iran","2030",101.529
+"Iraq","2030",102.881
+"Ireland","2030",100.447
+"Israel","2030",100.27
+"Italy","2030",95.897
+"Jamaica","2030",95.345
+"Japan","2030",93.118
+"Jordan","2030",103.578
+"Kazakhstan","2030",90.047
+"Kenya","2030",100.599
+"Kuwait","2030",135.516
+"Kyrgyzstan","2030",97.303
+"Laos","2030",100.636
+"LATIN AMERICA AND THE CARIBBEAN","2030",96.623
+"Latvia","2030",88.438
+"Least developed countries","2030",99.931
+"Lebanon","2030",95.773
+"Lesotho","2030",94.472
+"Less developed regions","2030",102.505
+"Less developed regions, excluding China","2030",101.309
+"Less developed regions, excluding least developed countries","2030",103.083
+"Liberia","2030",99.687
+"Libya","2030",103.685
+"Lithuania","2030",89.572
+"Luxembourg","2030",100.042
+"Madagascar","2030",99.062
+"Malawi","2030",100.941
+"Malaysia","2030",101.698
+"Maldives","2030",100.445
+"Mali","2030",98.701
+"Malta","2030",100.191
+"Martinique","2030",89.258
+"Mauritania","2030",102.573
+"Mauritius","2030",95.576
+"Mayotte","2030",98.368
+"Melanesia","2030",103.1
+"Mexico","2030",96.137
+"Micronesia","2030",96.83
+"Micronesia, Fed. Sts.","2030",105.681
+"Middle Africa","2030",98.717
+"Mongolia","2030",97.393
+"Montenegro","2030",97.479
+"More developed regions","2030",95.421
+"Morocco","2030",95.36
+"Mozambique","2030",99.199
+"Myanmar","2030",94.923
+"Namibia","2030",100.393
+"Nepal","2030",97.343
+"Netherlands","2030",98.758
+"Netherlands Antilles","2030",85.787
+"New Caledonia","2030",98.12
+"New Zealand","2030",98.529
+"Nicaragua","2030",97.137
+"Niger","2030",101.2
+"Nigeria","2030",101.383
+"Northern Africa","2030",99.955
+"NORTHERN AMERICA","2030",99.353
+"Northern Europe","2030",97.749
+"Norway","2030",99.548
+"West Bank and Gaza","2030",103.725
+"OCEANIA","2030",100.086
+"Oman","2030",119.133
+"Pakistan","2030",105.613
+"Panama","2030",100.667
+"Papua New Guinea","2030",102.981
+"Paraguay","2030",100.349
+"Peru","2030",99.782
+"Philippines","2030",101.59
+"Poland","2030",91.881
+"Polynesia","2030",103.44
+"Portugal","2030",94.096
+"Puerto Rico","2030",91.799
+"Qatar","2030",272.688
+"Korea, Rep.","2030",96.957
+"Moldova","2030",89.941
+"Reunion","2030",93.854
+"Romania","2030",93.789
+"Russia","2030",84.87
+"Rwanda","2030",95.253
+"Saint Lucia","2030",95.152
+"Saint Vincent and the Grenadines","2030",100.365
+"Samoa","2030",109.54
+"Sao Tome and Principe","2030",98.733
+"Saudi Arabia","2030",112.665
+"Senegal","2030",97.537
+"Serbia","2030",98.463
+"Sierra Leone","2030",96.964
+"Singapore","2030",98.665
+"Slovak Republic","2030",93.739
+"Slovenia","2030",96.488
+"Solomon Islands","2030",107.031
+"Somalia","2030",98.979
+"South Africa","2030",99.103
+"South America","2030",96.676
+"South-Central Asia","2030",104.159
+"South-Eastern Asia","2030",98.911
+"Southern Africa","2030",99.221
+"Southern Europe","2030",97.334
+"Spain","2030",99.86
+"Sri Lanka","2030",93.929
+"Sub- Saharan Africa","2030",100.076
+"Sudan","2030",101.512
+"Suriname","2030",99.114
+"Swaziland","2030",100.955
+"Sweden","2030",99.193
+"Switzerland","2030",93.264
+"Syria","2030",103.215
+"Tajikistan","2030",97.021
+"Macedonia, FYR","2030",99.465
+"Thailand","2030",95.586
+"Timor-Leste","2030",103.479
+"Togo","2030",98.707
+"Tonga","2030",102.516
+"Trinidad and Tobago","2030",92.336
+"Tunisia","2030",100.23
+"Turkey","2030",99.668
+"Turkmenistan","2030",96.042
+"Uganda","2030",100.471
+"Ukraine","2030",86.249
+"United Arab Emirates","2030",192.981
+"United Kingdom","2030",97.999
+"Tanzania","2030",100.699
+"United States","2030",99.177
+"Virgin Islands (U.S.)","2030",87.899
+"Uruguay","2030",94.573
+"Uzbekistan","2030",98.207
+"Vanuatu","2030",103.134
+"Venezuela","2030",99.392
+"Vietnam","2030",99.103
+"Western Africa","2030",101.002
+"Western Asia","2030",104.758
+"Western Europe","2030",96.374
+"Western Sahara","2030",107.431
+"WORLD","2030",101.379
+"Yemen, Rep.","2030",101.57
+"Zambia","2030",100.913
+"Zimbabwe","2030",99.293
+"Afghanistan","2035",107.176
+"AFRICA","2035",100.01
+"Albania","2035",95.333
+"Algeria","2035",101.279
+"Angola","2035",97.119
+"Argentina","2035",95.968
+"Armenia","2035",89.051
+"Aruba","2035",91.489
+"ASIA","2035",103.585
+"Australia","2035",98.845
+"Australia/New Zealand","2035",98.802
+"Austria","2035",96.908
+"Azerbaijan","2035",97.275
+"Bahamas","2035",92.86
+"Bahrain","2035",125.656
+"Bangladesh","2035",101.035
+"Barbados","2035",95.191
+"Belarus","2035",85.88
+"Belgium","2035",95.733
+"Belize","2035",100.824
+"Benin","2035",102.403
+"Bhutan","2035",106.481
+"Bolivia","2035",99.78
+"Bosnia and Herzegovina","2035",92.691
+"Botswana","2035",104.759
+"Brazil","2035",95.06
+"Brunei","2035",101.185
+"Bulgaria","2035",92.54
+"Burkina Faso","2035",100.764
+"Burundi","2035",97.023
+"Cambodia","2035",99.029
+"Cameroon","2035",100.535
+"Canada","2035",101.408
+"Cape Verde","2035",93.867
+"Caribbean","2035",97.231
+"Central African Rep.","2035",97.932
+"Central America","2035",96.009
+"Chad","2035",99.676
+"Channel Islands","2035",94.737
+"Chile","2035",96.554
+"China","2035",106.958
+"Hong Kong, China","2035",86.524
+"Macao, China","2035",86.84
+"Colombia","2035",95.942
+"Comoros","2035",100.263
+"Congo, Rep.","2035",100.174
+"Costa Rica","2035",101.424
+"Cote d'Ivoire","2035",100.826
+"Croatia","2035",94.112
+"Cuba","2035",99.119
+"Cyprus","2035",96.205
+"Czech Rep.","2035",97.392
+"Korea, Dem. Rep.","2035",97.681
+"Congo, Dem. Rep.","2035",98.395
+"Denmark","2035",98.718
+"Djibouti","2035",100.338
+"Dominican Rep.","2035",98.87
+"Eastern Africa","2035",99.833
+"Eastern Asia","2035",105.315
+"Eastern Europe","2035",87.839
+"Ecuador","2035",98.739
+"Egypt","2035",99.386
+"El Salvador","2035",87.487
+"Equatorial Guinea","2035",99.095
+"Eritrea","2035",98.785
+"Estonia","2035",88.804
+"Ethiopia","2035",99.356
+"EUROPE","2035",93.604
+"Fiji","2035",102.822
+"Finland","2035",96.194
+"France","2035",95.989
+"French Guiana","2035",98.458
+"French Polynesia","2035",101.282
+"Gabon","2035",101.648
+"Gambia","2035",98.376
+"Georgia","2035",89.485
+"Germany","2035",96.399
+"Ghana","2035",102.716
+"Greece","2035",99.102
+"Grenada","2035",102.573
+"Guadeloupe","2035",88.447
+"Guam","2035",101.37
+"Guatemala","2035",95.586
+"Guinea","2035",102.251
+"Guinea-Bissau","2035",98.587
+"Guyana","2035",101.745
+"Haiti","2035",97.961
+"Honduras","2035",100.399
+"Hungary","2035",91.627
+"Iceland","2035",108.257
+"India","2035",104.7
+"Indonesia","2035",98.701
+"Iran","2035",101.059
+"Iraq","2035",102.757
+"Ireland","2035",100.291
+"Israel","2035",100.503
+"Italy","2035",96.04
+"Jamaica","2035",95.104
+"Japan","2035",92.779
+"Jordan","2035",103.188
+"Kazakhstan","2035",90.2
+"Kenya","2035",100.644
+"Kuwait","2035",133.038
+"Kyrgyzstan","2035",97.147
+"Laos","2035",100.656
+"LATIN AMERICA AND THE CARIBBEAN","2035",96.338
+"Latvia","2035",88.965
+"Least developed countries","2035",99.905
+"Lebanon","2035",95.809
+"Lesotho","2035",95.058
+"Less developed regions","2035",102.219
+"Less developed regions, excluding China","2035",101.088
+"Less developed regions, excluding least developed countries","2035",102.766
+"Liberia","2035",99.755
+"Libya","2035",102.931
+"Lithuania","2035",89.72
+"Luxembourg","2035",100.024
+"Madagascar","2035",98.959
+"Malawi","2035",101.409
+"Malaysia","2035",101.353
+"Maldives","2035",100.136
+"Mali","2035",98.907
+"Malta","2035",100.044
+"Martinique","2035",89.48
+"Mauritania","2035",102.339
+"Mauritius","2035",94.999
+"Mayotte","2035",97.96
+"Melanesia","2035",103.066
+"Mexico","2035",95.766
+"Micronesia","2035",96.416
+"Micronesia, Fed. Sts.","2035",105.913
+"Middle Africa","2035",98.687
+"Mongolia","2035",97.208
+"Montenegro","2035",97.775
+"More developed regions","2035",95.552
+"Morocco","2035",95.027
+"Mozambique","2035",99.942
+"Myanmar","2035",94.752
+"Namibia","2035",100.867
+"Nepal","2035",97.022
+"Netherlands","2035",98.654
+"Netherlands Antilles","2035",85.618
+"New Caledonia","2035",97.66
+"New Zealand","2035",98.579
+"Nicaragua","2035",96.827
+"Niger","2035",101.304
+"Nigeria","2035",101.475
+"Northern Africa","2035",99.675
+"NORTHERN AMERICA","2035",99.493
+"Northern Europe","2035",97.894
+"Norway","2035",99.309
+"West Bank and Gaza","2035",103.626
+"OCEANIA","2035",100.042
+"Oman","2035",117.163
+"Pakistan","2035",105.381
+"Panama","2035",100.352
+"Papua New Guinea","2035",102.963
+"Paraguay","2035",99.986
+"Peru","2035",99.533
+"Philippines","2035",101.562
+"Poland","2035",91.613
+"Polynesia","2035",103.161
+"Portugal","2035",94.149
+"Puerto Rico","2035",91.992
+"Qatar","2035",267.226
+"Korea, Rep.","2035",96.378
+"Moldova","2035",89.874
+"Reunion","2035",93.535
+"Romania","2035",93.636
+"Russia","2035",84.955
+"Rwanda","2035",95.322
+"Saint Lucia","2035",94.909
+"Saint Vincent and the Grenadines","2035",99.713
+"Samoa","2035",109.577
+"Sao Tome and Principe","2035",98.82
+"Saudi Arabia","2035",110.946
+"Senegal","2035",97.405
+"Serbia","2035",98.519
+"Sierra Leone","2035",97.297
+"Singapore","2035",97.987
+"Slovak Republic","2035",93.561
+"Slovenia","2035",96.432
+"Solomon Islands","2035",106.903
+"Somalia","2035",99.034
+"South Africa","2035",99.522
+"South America","2035",96.379
+"South-Central Asia","2035",103.79
+"South-Eastern Asia","2035",98.778
+"Southern Africa","2035",99.667
+"Southern Europe","2035",97.455
+"Spain","2035",99.972
+"Sri Lanka","2035",93.394
+"Sub- Saharan Africa","2035",100.144
+"Sudan","2035",101.454
+"Suriname","2035",98.858
+"Swaziland","2035",101.624
+"Sweden","2035",99.119
+"Switzerland","2035",92.6
+"Syria","2035",102.945
+"Tajikistan","2035",96.842
+"Macedonia, FYR","2035",99.343
+"Thailand","2035",95.354
+"Timor-Leste","2035",103.361
+"Togo","2035",98.784
+"Tonga","2035",102.678
+"Trinidad and Tobago","2035",91.792
+"Tunisia","2035",99.999
+"Turkey","2035",99.261
+"Turkmenistan","2035",95.75
+"Uganda","2035",100.263
+"Ukraine","2035",86.64
+"United Arab Emirates","2035",190.773
+"United Kingdom","2035",98.213
+"Tanzania","2035",100.84
+"United States","2035",99.287
+"Virgin Islands (U.S.)","2035",87.728
+"Uruguay","2035",94.792
+"Uzbekistan","2035",97.94
+"Vanuatu","2035",103.03
+"Venezuela","2035",99.016
+"Vietnam","2035",99.199
+"Western Africa","2035",101.031
+"Western Asia","2035",104.369
+"Western Europe","2035",96.286
+"Western Sahara","2035",105.989
+"WORLD","2035",101.192
+"Yemen, Rep.","2035",101.401
+"Zambia","2035",101.21
+"Zimbabwe","2035",100.045
+"Afghanistan","2040",107.125
+"AFRICA","2040",99.988
+"Albania","2040",95.062
+"Algeria","2040",100.919
+"Angola","2040",97.074
+"Argentina","2040",95.747
+"Armenia","2040",89.447
+"Aruba","2040",91.633
+"ASIA","2040",103.258
+"Australia","2040",98.791
+"Australia/New Zealand","2040",98.766
+"Austria","2040",96.876
+"Azerbaijan","2040",97.32
+"Bahamas","2040",92.334
+"Bahrain","2040",123.671
+"Bangladesh","2040",100.6
+"Barbados","2040",94.868
+"Belarus","2040",85.912
+"Belgium","2040",95.47
+"Belize","2040",100.601
+"Benin","2040",102.261
+"Bhutan","2040",105.248
+"Bolivia","2040",99.686
+"Bosnia and Herzegovina","2040",92.768
+"Botswana","2040",105.092
+"Brazil","2040",94.657
+"Brunei","2040",100.114
+"Bulgaria","2040",92.737
+"Burkina Faso","2040",100.74
+"Burundi","2040",96.885
+"Cambodia","2040",99.262
+"Cameroon","2040",100.473
+"Canada","2040",101.774
+"Cape Verde","2040",93.874
+"Caribbean","2040",97.051
+"Central African Rep.","2040",98.085
+"Central America","2040",95.708
+"Chad","2040",99.742
+"Channel Islands","2040",94.597
+"Chile","2040",96.139
+"China","2040",106.666
+"Hong Kong, China","2040",85.796
+"Macao, China","2040",85.656
+"Colombia","2040",95.841
+"Comoros","2040",100.088
+"Congo, Rep.","2040",100.188
+"Costa Rica","2040",100.954
+"Cote d'Ivoire","2040",100.531
+"Croatia","2040",94.237
+"Cuba","2040",98.816
+"Cyprus","2040",96.444
+"Czech Rep.","2040",97.586
+"Korea, Dem. Rep.","2040",97.097
+"Congo, Dem. Rep.","2040",98.296
+"Denmark","2040",98.835
+"Djibouti","2040",100.288
+"Dominican Rep.","2040",98.446
+"Eastern Africa","2040",99.894
+"Eastern Asia","2040",105.037
+"Eastern Europe","2040",88.14
+"Ecuador","2040",98.388
+"Egypt","2040",99.034
+"El Salvador","2040",87.643
+"Equatorial Guinea","2040",99.191
+"Eritrea","2040",98.847
+"Estonia","2040",89.465
+"Ethiopia","2040",99.306
+"EUROPE","2040",93.804
+"Fiji","2040",102.819
+"Finland","2040",96.147
+"France","2040",96.1
+"French Guiana","2040",98.323
+"French Polynesia","2040",100.745
+"Gabon","2040",101.884
+"Gambia","2040",98.322
+"Georgia","2040",89.865
+"Germany","2040",96.133
+"Ghana","2040",102.61
+"Greece","2040",99.236
+"Grenada","2040",102.651
+"Guadeloupe","2040",87.964
+"Guam","2040",101.024
+"Guatemala","2040",95.562
+"Guinea","2040",102.205
+"Guinea-Bissau","2040",98.602
+"Guyana","2040",101.073
+"Haiti","2040",97.926
+"Honduras","2040",100.356
+"Hungary","2040",92.047
+"Iceland","2040",107.71
+"India","2040",104.277
+"Indonesia","2040",98.353
+"Iran","2040",100.589
+"Iraq","2040",102.601
+"Ireland","2040",100.148
+"Israel","2040",100.696
+"Italy","2040",96.133
+"Jamaica","2040",94.919
+"Japan","2040",92.544
+"Jordan","2040",102.777
+"Kazakhstan","2040",90.568
+"Kenya","2040",100.665
+"Kuwait","2040",130.444
+"Kyrgyzstan","2040",97.054
+"Laos","2040",100.602
+"LATIN AMERICA AND THE CARIBBEAN","2040",96.044
+"Latvia","2040",89.448
+"Least developed countries","2040",99.842
+"Lebanon","2040",95.854
+"Lesotho","2040",95.462
+"Less developed regions","2040",101.934
+"Less developed regions, excluding China","2040",100.855
+"Less developed regions, excluding least developed countries","2040",102.454
+"Liberia","2040",99.79
+"Libya","2040",102.206
+"Lithuania","2040",89.874
+"Luxembourg","2040",99.912
+"Madagascar","2040",98.837
+"Malawi","2040",101.857
+"Malaysia","2040",101.058
+"Maldives","2040",99.802
+"Mali","2040",99.058
+"Malta","2040",99.879
+"Martinique","2040",89.758
+"Mauritania","2040",102.086
+"Mauritius","2040",94.462
+"Mayotte","2040",97.549
+"Melanesia","2040",103.056
+"Mexico","2040",95.361
+"Micronesia","2040",95.995
+"Micronesia, Fed. Sts.","2040",106.098
+"Middle Africa","2040",98.628
+"Mongolia","2040",97.003
+"Montenegro","2040",98.078
+"More developed regions","2040",95.728
+"Morocco","2040",94.723
+"Mozambique","2040",100.613
+"Myanmar","2040",94.603
+"Namibia","2040",101.21
+"Nepal","2040",96.688
+"Netherlands","2040",98.615
+"Netherlands Antilles","2040",85.545
+"New Caledonia","2040",97.262
+"New Zealand","2040",98.636
+"Nicaragua","2040",96.481
+"Niger","2040",101.368
+"Nigeria","2040",101.517
+"Northern Africa","2040",99.396
+"NORTHERN AMERICA","2040",99.593
+"Northern Europe","2040",98.095
+"Norway","2040",99.083
+"West Bank and Gaza","2040",103.49
+"OCEANIA","2040",100.031
+"Oman","2040",115.234
+"Pakistan","2040",105.102
+"Panama","2040",100.02
+"Papua New Guinea","2040",102.971
+"Paraguay","2040",99.645
+"Peru","2040",99.242
+"Philippines","2040",101.496
+"Poland","2040",91.527
+"Polynesia","2040",102.906
+"Portugal","2040",94.173
+"Puerto Rico","2040",92.304
+"Qatar","2040",261.247
+"Korea, Rep.","2040",95.695
+"Moldova","2040",90.088
+"Reunion","2040",93.268
+"Romania","2040",93.509
+"Russia","2040",85.354
+"Rwanda","2040",95.344
+"Saint Lucia","2040",94.656
+"Saint Vincent and the Grenadines","2040",99.06
+"Samoa","2040",109.629
+"Sao Tome and Principe","2040",98.848
+"Saudi Arabia","2040",109.254
+"Senegal","2040",97.274
+"Serbia","2040",98.665
+"Sierra Leone","2040",97.566
+"Singapore","2040",97.367
+"Slovak Republic","2040",93.503
+"Slovenia","2040",96.309
+"Solomon Islands","2040",106.75
+"Somalia","2040",99.047
+"South Africa","2040",99.872
+"South America","2040",96.078
+"South-Central Asia","2040",103.42
+"South-Eastern Asia","2040",98.62
+"Southern Africa","2040",100.026
+"Southern Europe","2040",97.58
+"Spain","2040",100.141
+"Sri Lanka","2040",93.02
+"Sub- Saharan Africa","2040",100.167
+"Sudan","2040",101.367
+"Suriname","2040",98.605
+"Swaziland","2040",102.032
+"Sweden","2040",99.125
+"Switzerland","2040",91.981
+"Syria","2040",102.628
+"Tajikistan","2040",96.676
+"Macedonia, FYR","2040",99.252
+"Thailand","2040",95.267
+"Timor-Leste","2040",103.217
+"Togo","2040",98.82
+"Tonga","2040",102.855
+"Trinidad and Tobago","2040",91.308
+"Tunisia","2040",99.815
+"Turkey","2040",98.83
+"Turkmenistan","2040",95.529
+"Uganda","2040",100.003
+"Ukraine","2040",87.226
+"United Arab Emirates","2040",188.569
+"United Kingdom","2040",98.485
+"Tanzania","2040",100.927
+"United States","2040",99.357
+"Virgin Islands (U.S.)","2040",87.896
+"Uruguay","2040",94.956
+"Uzbekistan","2040",97.696
+"Vanuatu","2040",102.956
+"Venezuela","2040",98.629
+"Vietnam","2040",99.205
+"Western Africa","2040",101.023
+"Western Asia","2040",103.956
+"Western Europe","2040",96.168
+"Western Sahara","2040",104.561
+"WORLD","2040",101.006
+"Yemen, Rep.","2040",101.215
+"Zambia","2040",101.456
+"Zimbabwe","2040",100.611
+"Afghanistan","2045",107.052
+"AFRICA","2045",99.928
+"Albania","2045",94.969
+"Algeria","2045",100.552
+"Angola","2045",97.017
+"Argentina","2045",95.505
+"Armenia","2045",89.999
+"Aruba","2045",92.055
+"ASIA","2045",102.961
+"Australia","2045",98.818
+"Australia/New Zealand","2045",98.81
+"Austria","2045",96.82
+"Azerbaijan","2045",97.433
+"Bahamas","2045",91.855
+"Bahrain","2045",121.628
+"Bangladesh","2045",100.131
+"Barbados","2045",94.682
+"Belarus","2045",86.18
+"Belgium","2045",95.263
+"Belize","2045",100.364
+"Benin","2045",102.08
+"Bhutan","2045",104.001
+"Bolivia","2045",99.545
+"Bosnia and Herzegovina","2045",93.069
+"Botswana","2045",105.095
+"Brazil","2045",94.277
+"Brunei","2045",99.236
+"Bulgaria","2045",93.069
+"Burkina Faso","2045",100.671
+"Burundi","2045",96.71
+"Cambodia","2045",99.363
+"Cameroon","2045",100.35
+"Canada","2045",102.154
+"Cape Verde","2045",93.758
+"Caribbean","2045",96.88
+"Central African Rep.","2045",98.183
+"Central America","2045",95.398
+"Chad","2045",99.76
+"Channel Islands","2045",94.616
+"Chile","2045",95.756
+"China","2045",106.426
+"Hong Kong, China","2045",85.306
+"Macao, China","2045",84.707
+"Colombia","2045",95.743
+"Comoros","2045",99.896
+"Congo, Rep.","2045",100.185
+"Costa Rica","2045",100.489
+"Cote d'Ivoire","2045",100.248
+"Croatia","2045",94.459
+"Cuba","2045",98.486
+"Cyprus","2045",96.779
+"Czech Rep.","2045",97.805
+"Korea, Dem. Rep.","2045",96.663
+"Congo, Dem. Rep.","2045",98.169
+"Denmark","2045",99.068
+"Djibouti","2045",100.168
+"Dominican Rep.","2045",98.032
+"Eastern Africa","2045",99.893
+"Eastern Asia","2045",104.815
+"Eastern Europe","2045",88.67
+"Ecuador","2045",98.047
+"Egypt","2045",98.695
+"El Salvador","2045",87.854
+"Equatorial Guinea","2045",99.283
+"Eritrea","2045",98.802
+"Estonia","2045",90.329
+"Ethiopia","2045",99.218
+"EUROPE","2045",94.096
+"Fiji","2045",102.824
+"Finland","2045",96.301
+"France","2045",96.286
+"French Guiana","2045",98.283
+"French Polynesia","2045",100.279
+"Gabon","2045",102.056
+"Gambia","2045",98.256
+"Georgia","2045",90.468
+"Germany","2045",95.803
+"Ghana","2045",102.473
+"Greece","2045",99.315
+"Grenada","2045",102.686
+"Guadeloupe","2045",87.591
+"Guam","2045",100.736
+"Guatemala","2045",95.514
+"Guinea","2045",102.132
+"Guinea-Bissau","2045",98.589
+"Guyana","2045",100.557
+"Haiti","2045",97.836
+"Honduras","2045",100.301
+"Hungary","2045",92.575
+"Iceland","2045",107.11
+"India","2045",103.877
+"Indonesia","2045",98.046
+"Iran","2045",100.131
+"Iraq","2045",102.409
+"Ireland","2045",100.016
+"Israel","2045",100.871
+"Italy","2045",96.16
+"Jamaica","2045",94.892
+"Japan","2045",92.453
+"Jordan","2045",102.331
+"Kazakhstan","2045",91.079
+"Kenya","2045",100.628
+"Kuwait","2045",127.797
+"Kyrgyzstan","2045",97.018
+"Laos","2045",100.512
+"LATIN AMERICA AND THE CARIBBEAN","2045",95.755
+"Latvia","2045",89.964
+"Least developed countries","2045",99.747
+"Lebanon","2045",96.013
+"Lesotho","2045",95.638
+"Less developed regions","2045",101.665
+"Less developed regions, excluding China","2045",100.628
+"Less developed regions, excluding least developed countries","2045",102.164
+"Liberia","2045",99.793
+"Libya","2045",101.533
+"Lithuania","2045",90.116
+"Luxembourg","2045",99.806
+"Madagascar","2045",98.704
+"Malawi","2045",102.252
+"Malaysia","2045",100.821
+"Maldives","2045",99.447
+"Mali","2045",99.146
+"Malta","2045",99.76
+"Martinique","2045",90.165
+"Mauritania","2045",101.83
+"Mauritius","2045",94.062
+"Mayotte","2045",97.139
+"Melanesia","2045",103.059
+"Mexico","2045",94.939
+"Micronesia","2045",95.608
+"Micronesia, Fed. Sts.","2045",106.264
+"Middle Africa","2045",98.536
+"Mongolia","2045",96.817
+"Montenegro","2045",98.432
+"More developed regions","2045",95.99
+"Morocco","2045",94.526
+"Mozambique","2045",101.184
+"Myanmar","2045",94.498
+"Namibia","2045",101.35
+"Nepal","2045",96.358
+"Netherlands","2045",98.691
+"Netherlands Antilles","2045",85.61
+"New Caledonia","2045",96.935
+"New Zealand","2045",98.765
+"Nicaragua","2045",96.109
+"Niger","2045",101.405
+"Nigeria","2045",101.497
+"Northern Africa","2045",99.137
+"NORTHERN AMERICA","2045",99.756
+"Northern Europe","2045",98.369
+"Norway","2045",98.934
+"West Bank and Gaza","2045",103.329
+"OCEANIA","2045",100.076
+"Oman","2045",113.363
+"Pakistan","2045",104.794
+"Panama","2045",99.686
+"Papua New Guinea","2045",102.996
+"Paraguay","2045",99.329
+"Peru","2045",98.917
+"Philippines","2045",101.457
+"Poland","2045",91.664
+"Polynesia","2045",102.691
+"Portugal","2045",94.184
+"Puerto Rico","2045",92.735
+"Qatar","2045",254.644
+"Korea, Rep.","2045",95
+"Moldova","2045",90.58
+"Reunion","2045",93.087
+"Romania","2045",93.526
+"Russia","2045",86.04
+"Rwanda","2045",95.312
+"Saint Lucia","2045",94.408
+"Saint Vincent and the Grenadines","2045",98.463
+"Samoa","2045",109.699
+"Sao Tome and Principe","2045",98.818
+"Saudi Arabia","2045",107.6
+"Senegal","2045",97.126
+"Serbia","2045",98.887
+"Sierra Leone","2045",97.781
+"Singapore","2045",96.981
+"Slovak Republic","2045",93.553
+"Slovenia","2045",96.316
+"Solomon Islands","2045",106.541
+"Somalia","2045",99.024
+"South Africa","2045",100.117
+"South America","2045",95.785
+"South-Central Asia","2045",103.064
+"South-Eastern Asia","2045",98.498
+"Southern Africa","2045",100.258
+"Southern Europe","2045",97.687
+"Spain","2045",100.283
+"Sri Lanka","2045",92.899
+"Sub- Saharan Africa","2045",100.137
+"Sudan","2045",101.257
+"Suriname","2045",98.459
+"Swaziland","2045",102.163
+"Sweden","2045",99.211
+"Switzerland","2045",91.483
+"Syria","2045",102.272
+"Tajikistan","2045",96.537
+"Macedonia, FYR","2045",99.225
+"Thailand","2045",95.362
+"Timor-Leste","2045",103.047
+"Togo","2045",98.805
+"Tonga","2045",103.043
+"Trinidad and Tobago","2045",90.916
+"Tunisia","2045",99.722
+"Turkey","2045",98.449
+"Turkmenistan","2045",95.379
+"Uganda","2045",99.704
+"Ukraine","2045",88.016
+"United Arab Emirates","2045",186.835
+"United Kingdom","2045",98.825
+"Tanzania","2045",100.953
+"United States","2045",99.496
+"Virgin Islands (U.S.)","2045",88.492
+"Uruguay","2045",95.092
+"Uzbekistan","2045",97.507
+"Vanuatu","2045",102.902
+"Venezuela","2045",98.262
+"Vietnam","2045",99.157
+"Western Africa","2045",100.971
+"Western Asia","2045",103.552
+"Western Europe","2045",96.072
+"Western Sahara","2045",103.206
+"WORLD","2045",100.838
+"Yemen, Rep.","2045",101
+"Zambia","2045",101.616
+"Zimbabwe","2045",100.901
+"Afghanistan","2050",106.945
+"AFRICA","2050",99.824
+"Albania","2050",95.091
+"Algeria","2050",100.183
+"Angola","2050",96.942
+"Argentina","2050",95.232
+"Armenia","2050",90.703
+"Aruba","2050",92.797
+"ASIA","2050",102.697
+"Australia","2050",98.927
+"Australia/New Zealand","2050",98.937
+"Austria","2050",96.792
+"Azerbaijan","2050",97.614
+"Bahamas","2050",91.371
+"Bahrain","2050",119.631
+"Bangladesh","2050",99.638
+"Barbados","2050",94.655
+"Belarus","2050",86.631
+"Belgium","2050",95.187
+"Belize","2050",100.139
+"Benin","2050",101.874
+"Bhutan","2050",102.73
+"Bolivia","2050",99.342
+"Bosnia and Herzegovina","2050",93.629
+"Botswana","2050",104.727
+"Brazil","2050",93.936
+"Brunei","2050",98.6
+"Bulgaria","2050",93.397
+"Burkina Faso","2050",100.563
+"Burundi","2050",96.496
+"Cambodia","2050",99.317
+"Cameroon","2050",100.154
+"Canada","2050",102.571
+"Cape Verde","2050",93.575
+"Caribbean","2050",96.72
+"Central African Rep.","2050",98.198
+"Central America","2050",95.098
+"Chad","2050",99.724
+"Channel Islands","2050",94.832
+"Chile","2050",95.453
+"China","2050",106.262
+"Hong Kong, China","2050",85.211
+"Macao, China","2050",84.144
+"Colombia","2050",95.662
+"Comoros","2050",99.693
+"Congo, Rep.","2050",100.152
+"Costa Rica","2050",100.057
+"Cote d'Ivoire","2050",99.951
+"Croatia","2050",94.8
+"Cuba","2050",98.189
+"Cyprus","2050",97.208
+"Czech Rep.","2050",97.944
+"Korea, Dem. Rep.","2050",96.465
+"Congo, Dem. Rep.","2050",98.011
+"Denmark","2050",99.378
+"Djibouti","2050",99.992
+"Dominican Rep.","2050",97.637
+"Eastern Africa","2050",99.826
+"Eastern Asia","2050",104.671
+"Eastern Europe","2050",89.298
+"Ecuador","2050",97.731
+"Egypt","2050",98.394
+"El Salvador","2050",88.14
+"Equatorial Guinea","2050",99.356
+"Eritrea","2050",98.673
+"Estonia","2050",91.278
+"Ethiopia","2050",99.089
+"EUROPE","2050",94.454
+"Fiji","2050",102.809
+"Finland","2050",96.594
+"France","2050",96.616
+"French Guiana","2050",98.338
+"French Polynesia","2050",99.909
+"Gabon","2050",102.128
+"Gambia","2050",98.173
+"Georgia","2050",91.324
+"Germany","2050",95.535
+"Ghana","2050",102.312
+"Greece","2050",99.375
+"Grenada","2050",102.704
+"Guadeloupe","2050",87.359
+"Guam","2050",100.528
+"Guatemala","2050",95.436
+"Guinea","2050",102.022
+"Guinea-Bissau","2050",98.537
+"Guyana","2050",100.223
+"Haiti","2050",97.663
+"Honduras","2050",100.234
+"Hungary","2050",93.046
+"Iceland","2050",106.469
+"India","2050",103.486
+"Indonesia","2050",97.807
+"Iran","2050",99.677
+"Iraq","2050",102.178
+"Ireland","2050",99.887
+"Israel","2050",101.037
+"Italy","2050",96.181
+"Jamaica","2050",95.076
+"Japan","2050",92.423
+"Jordan","2050",101.859
+"Kazakhstan","2050",91.61
+"Kenya","2050",100.501
+"Kuwait","2050",125.164
+"Kyrgyzstan","2050",97.007
+"Laos","2050",100.389
+"LATIN AMERICA AND THE CARIBBEAN","2050",95.483
+"Latvia","2050",90.597
+"Least developed countries","2050",99.618
+"Lebanon","2050",96.235
+"Lesotho","2050",95.494
+"Less developed regions","2050",101.412
+"Less developed regions, excluding China","2050",100.402
+"Less developed regions, excluding least developed countries","2050",101.902
+"Liberia","2050",99.752
+"Libya","2050",100.939
+"Lithuania","2050",90.461
+"Luxembourg","2050",99.788
+"Madagascar","2050",98.557
+"Malawi","2050",102.535
+"Malaysia","2050",100.638
+"Maldives","2050",99.08
+"Mali","2050",99.159
+"Malta","2050",99.68
+"Martinique","2050",90.79
+"Mauritania","2050",101.573
+"Mauritius","2050",93.89
+"Mayotte","2050",96.725
+"Melanesia","2050",103.07
+"Mexico","2050",94.525
+"Micronesia","2050",95.282
+"Micronesia, Fed. Sts.","2050",106.376
+"Middle Africa","2050",98.406
+"Mongolia","2050",96.67
+"Montenegro","2050",98.842
+"More developed regions","2050",96.307
+"Morocco","2050",94.493
+"Mozambique","2050",101.622
+"Myanmar","2050",94.433
+"Namibia","2050",101.269
+"Nepal","2050",96.012
+"Netherlands","2050",98.909
+"Netherlands Antilles","2050",85.856
+"New Caledonia","2050",96.693
+"New Zealand","2050",98.992
+"Nicaragua","2050",95.72
+"Niger","2050",101.419
+"Nigeria","2050",101.405
+"Northern Africa","2050",98.913
+"NORTHERN AMERICA","2050",99.957
+"Northern Europe","2050",98.691
+"Norway","2050",98.856
+"West Bank and Gaza","2050",103.151
+"OCEANIA","2050",100.177
+"Oman","2050",111.591
+"Pakistan","2050",104.47
+"Panama","2050",99.368
+"Papua New Guinea","2050",103.033
+"Paraguay","2050",99.036
+"Peru","2050",98.572
+"Philippines","2050",101.403
+"Poland","2050",91.913
+"Polynesia","2050",102.527
+"Portugal","2050",94.208
+"Puerto Rico","2050",93.221
+"Qatar","2050",247.643
+"Korea, Rep.","2050",94.426
+"Moldova","2050",91.15
+"Reunion","2050",93.051
+"Romania","2050",93.582
+"Russia","2050",86.866
+"Rwanda","2050",95.224
+"Saint Lucia","2050",94.223
+"Saint Vincent and the Grenadines","2050",98.002
+"Samoa","2050",109.794
+"Sao Tome and Principe","2050",98.703
+"Saudi Arabia","2050",106.058
+"Senegal","2050",96.958
+"Serbia","2050",99.127
+"Sierra Leone","2050",97.938
+"Singapore","2050",96.955
+"Slovak Republic","2050",93.653
+"Slovenia","2050",96.459
+"Solomon Islands","2050",106.278
+"Somalia","2050",98.964
+"South Africa","2050",100.199
+"South America","2050",95.514
+"South-Central Asia","2050",102.713
+"South-Eastern Asia","2050",98.42
+"Southern Africa","2050",100.303
+"Southern Europe","2050",97.795
+"Spain","2050",100.387
+"Sri Lanka","2050",92.953
+"Sub- Saharan Africa","2050",100.047
+"Sudan","2050",101.107
+"Suriname","2050",98.442
+"Swaziland","2050",101.914
+"Sweden","2050",99.319
+"Switzerland","2050",91.151
+"Syria","2050",101.879
+"Tajikistan","2050",96.432
+"Macedonia, FYR","2050",99.259
+"Thailand","2050",95.633
+"Timor-Leste","2050",102.846
+"Togo","2050",98.733
+"Tonga","2050",103.238
+"Trinidad and Tobago","2050",90.586
+"Tunisia","2050",99.713
+"Turkey","2050",98.148
+"Turkmenistan","2050",95.273
+"Uganda","2050",99.384
+"Ukraine","2050",88.876
+"United Arab Emirates","2050",185.795
+"United Kingdom","2050",99.209
+"Tanzania","2050",100.917
+"United States","2050",99.673
+"Virgin Islands (U.S.)","2050",89.492
+"Uruguay","2050",95.212
+"Uzbekistan","2050",97.357
+"Vanuatu","2050",102.88
+"Venezuela","2050",97.927
+"Vietnam","2050",99.115
+"Western Africa","2050",100.869
+"Western Asia","2050",103.173
+"Western Europe","2050",96.087
+"Western Sahara","2050",101.969
+"WORLD","2050",100.685
+"Yemen, Rep.","2050",100.747
+"Zambia","2050",101.658
+"Zimbabwe","2050",100.883
