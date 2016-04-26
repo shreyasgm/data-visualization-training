@@ -17,6 +17,22 @@ Datasets
 
 .. raw:: html
 
+	<style type="text/css">
+	table.tableizer-table {
+		font-size: 14px;
+		border: 1px solid #CCC;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+	</style>
 	<table class="tableizer-table">
 	<thead><tr class="tableizer-firstrow"><th>No</th><th>Link</th><th>Title</th><th>Description</th></tr></thead><tbody>
 	 <tr><td>1</td><td>https://data.gov.in/catalog/basic-habitation-information</td><td>Basic Habitation Information As On 1st April 2012</td><td>The data refers to the list of habitations, its population in different caste category (SC, ST and GENERAL) and status of availability of potable drinking water (Covered or Partially covered) all over India.</td></tr>
