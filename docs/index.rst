@@ -32,6 +32,7 @@ Contents
    :maxdepth: 2   
 
    gettingstarted
+   exercise
 
 .. toctree::
    :maxdepth: 2
