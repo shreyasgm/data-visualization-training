@@ -1,8 +1,12 @@
 htmlwidgets
 ===========
 
-:code:`htmlwidgets` allows us to use the power of D3 from within R, to produce some `fantastic visualizations`_.
+:code:`htmlwidgets` allows us to use the power of Javascript-based visualization libraries from within R, to produce some `fantastic visualizations`_.
 
+Dygraphs
+--------
+
+Used to plot time series data.
 
 - Data: All India Area Weighted Annual Rainfall (in mm)
 - Data Source: India Meteorological Department (IMD)
@@ -61,9 +65,24 @@ htmlwidgets
 
 	<iframe src="_static/annualRainfall.html" height="345px" width="100%"></iframe>
 
+RBokeh
+------
+
+Standard plotting library for interactive charts.
+
+http://hafen.github.io/rbokeh/
+
+http://www.r-bloggers.com/a-quick-incomplete-comparison-of-ggplot2-rbokeh-plotting-idioms/
+
+Leaflet
+-------
+
+Interactive maps with Leaflet
+
+https://rstudio.github.io/leaflet/
 
 
-.. _fantastic visualizations: http://www.htmlwidgets.org/showcase_leaflet.html
+.. _fantastic visualizations: http://gallery.htmlwidgets.org/
 .. _Download Data: https://data.gov.in/node/85824/datastore/export/csv
 .. _here: https://github.com/shreyasgm/india-rainfall/tree/master/Code
 .. _this: https://github.com/shreyasgm/data-visualization-training/raw/master/data/annualRainfall.rds
